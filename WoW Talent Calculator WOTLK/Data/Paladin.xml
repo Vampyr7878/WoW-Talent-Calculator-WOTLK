@@ -1,0 +1,2747 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Specializations>
+  <Specialization>
+    <Name>Holy</Name>
+    <Talents>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Arcane_Blink</Icon>
+        <Name>Spiritual Focus</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting Flash of Light and Holy Light by 14%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting Flash of Light and Holy Light by 28%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting Flash of Light and Holy Light by 42%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting Flash of Light and Holy Light by 56%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting Flash of Light and Holy Light by 70%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_ThunderBolt</Icon>
+        <Name>Seals of the Pure</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your Seal of Righteousness, Seal of Vengeance and Seal of Corruption and their Judgement effects by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your Seal of Righteousness, Seal of Vengeance and Seal of Corruption and their Judgement effects by 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage done by your Seal of Righteousness, Seal of Vengeance and Seal of Corruption and their Judgement effects by 9%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the damage done by your Seal of Righteousness, Seal of Vengeance and Seal of Corruption and their Judgement effects by 12%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases the damage done by your Seal of Righteousness, Seal of Vengeance and Seal of Corruption and their Judgement effects by 15%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_HolyBolt</Icon>
+        <Name>Healing Light</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the amount healed by your Holy Light, Flash of Light and the effectiveness of Holy Shock spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the amount healed by your Holy Light, Flash of Light and the effectiveness of Holy Shock spells by 8%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the amount healed by your Holy Light, Flash of Light and the effectiveness of Holy Shock spells by 12%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Nature_Sleep</Icon>
+        <Name>Divine Intellect</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your total Intellect by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your total Intellect by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your total Intellect by 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases your total Intellect by 8%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases your total Intellect by 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_UnyieldingFaith</Icon>
+        <Name>Unyielding Faith</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the duration of all Fear and Disorient effects by 15%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the duration of all Fear and Disorient effects by 30%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_AuraMastery</Icon>
+        <Name>Aura Mastery</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Causes your Concentration Aura to make all affected targets immune to Silence and Interrupt effects and improve the effect of all other auras by 100%.  Lasts 6 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_GreaterHeal</Icon>
+        <Name>Illumination</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>After getting a critical effect from your Flash of Light, Holy Light, or Holy Shock heal spell you have a 20% chance to gain mana equal to 30% of the base cost of the spell.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>After getting a critical effect from your Flash of Light, Holy Light, or Holy Shock heal spell you have a 40% chance to gain mana equal to 30% of the base cost of the spell.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>After getting a critical effect from your Flash of Light, Holy Light, or Holy Shock heal spell you have a 60% chance to gain mana equal to 30% of the base cost of the spell.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>After getting a critical effect from your Flash of Light, Holy Light, or Holy Shock heal spell you have a 80% chance to gain mana equal to 30% of the base cost of the spell.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>After getting a critical effect from your Flash of Light, Holy Light, or Holy Shock heal spell you have a 100% chance to gain mana equal to 30% of the base cost of the spell.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_LayOnHands</Icon>
+        <Name>Improved Lay on Hands</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Grants the target of your Lay on Hands spell 10% reduced physical damage taken for 15 sec.  In addition, the cooldown for your Lay on Hands spell is reduced by 2 min.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Grants the target of your Lay on Hands spell 20% reduced physical damage taken for 15 sec.  In addition, the cooldown for your Lay on Hands spell is reduced by 4 min.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_MindSooth</Icon>
+        <Name>Improved Concentration Aura</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the effect of your Concentration Aura by an additional 5% and while any Aura is active reduces the duration of any Silence or Interrupt effect used against an affected group member by 10%.  The duration reduction does not stack with any other effects.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the effect of your Concentration Aura by an additional 10% and while any Aura is active reduces the duration of any Silence or Interrupt effect used against an affected group member by 20%.  The duration reduction does not stack with any other effects.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the effect of your Concentration Aura by an additional 15% and while any Aura is active reduces the duration of any Silence or Interrupt effect used against an affected group member by 30%.  The duration reduction does not stack with any other effects.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_SealOfWisdom</Icon>
+        <Name>Improved Blessing of Wisdom</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the effect of your Blessing of Wisdom spell by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the effect of your Blessing of Wisdom spell by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_BlessedHands</Icon>
+        <Name>Blessed Hands</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the mana cost of Hand of Freedom, Hand of Sacrifice and Hand of Salvation by 15%, increases the effectiveness of Hand of Salvation by 50% and the effectiveness of Hand of Sacrifice by an additional 5%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the mana cost of Hand of Freedom, Hand of Sacrifice and Hand of Salvation by 30%, increases the effectiveness of Hand of Salvation by 100% and the effectiveness of Hand of Sacrifice by an additional 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_PureOfHeart</Icon>
+        <Name>Pure of Heart</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the duration of Curse, Disease and Poison effects by 15%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the duration of Curse, Disease and Poison effects by 30%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_Heal</Icon>
+        <Name>Divine Favor</Name>
+        <Points>5</Points>
+        <Dependancy>Illumination</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>88</X>
+          <Y>200</Y>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When activated, gives your next Flash of Light, Holy Light, or Holy Shock spell a 100% critical effect chance.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_HealingAura</Icon>
+        <Name>Sanctified Light</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical effect chance of your Holy Light and Holy Shock spells by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the critical effect chance of your Holy Light and Holy Shock spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the critical effect chance of your Holy Light and Holy Shock spells by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_PurifyingPower</Icon>
+        <Name>Purifying Power</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the mana cost of your Cleanse, Purify and Consecration spells by 5% and reduces the cooldown of your Exorcism and Holy Wrath spells by 17%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the mana cost of your Cleanse, Purify and Consecration spells by 10% and reduces the cooldown of your Exorcism and Holy Wrath spells by 33%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_Power</Icon>
+        <Name>Holy Power</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical effect chance of your Holy spells by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the critical effect chance of your Holy spells by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the critical effect chance of your Holy spells by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the critical effect chance of your Holy spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases the critical effect chance of your Holy spells by 5%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_LightsGrace</Icon>
+        <Name>Light's Grace</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives your Holy Light spell a 33% chance to reduce the cast time of your next Holy Light spell by 0.5 sec.  This effect lasts 15 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives your Holy Light spell a 66% chance to reduce the cast time of your next Holy Light spell by 0.5 sec.  This effect lasts 15 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Gives your Holy Light spell a 100% chance to reduce the cast time of your next Holy Light spell by 0.5 sec.  This effect lasts 15 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_SearingLight</Icon>
+        <Name>Holy Shock</Name>
+        <Points>1</Points>
+        <Dependancy>Divine Favor</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>88</X>
+          <Y>320</Y>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Blasts the target with Holy energy, causing 314 to 341 Holy damage to an enemy, or 481 to 520 healing to an ally.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_BlessedLife</Icon>
+        <Name>Blessed Life</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>All attacks against you have a 4% chance to cause half damage.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>All attacks against you have a 7% chance to cause half damage.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>All attacks against you have a 10% chance to cause half damage.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_SacredCleansing</Icon>
+        <Name>Sacred Cleansing</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your Cleanse spell has a 10% chance to increase the target's resistance to Disease, Magic and Poison by 30% for 10 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your Cleanse spell has a 20% chance to increase the target's resistance to Disease, Magic and Poison by 30% for 10 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Your Cleanse spell has a 30% chance to increase the target's resistance to Disease, Magic and Poison by 30% for 10 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_HolyGuidance</Icon>
+        <Name>Holy Guidance</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your spell power by 4% of your total Intellect.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your spell power by 8% of your total Intellect.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your spell power by 12% of your total Intellect.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases your spell power by 16% of your total Intellect.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases your spell power by 20% of your total Intellect.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_DivineIllumination</Icon>
+        <Name>Divine Illumination</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the mana cost of all spells by 50% for 15 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_JudgementofthePure</Icon>
+        <Name>Judgements of the Pure</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your Seal and Judgement spells by 5%, and your Judgement spells increase your casting and melee haste by 3% for 1 min.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your Seal and Judgement spells by 10%, and your Judgement spells increase your casting and melee haste by 6% for 1 min.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage done by your Seal and Judgement spells by 15%, and your Judgement spells increase your casting and melee haste by 9% for 1 min.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the damage done by your Seal and Judgement spells by 20%, and your Judgement spells increase your casting and melee haste by 12% for 1 min.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases the damage done by your Seal and Judgement spells by 25%, and your Judgement spells increase your casting and melee haste by 15% for 1 min.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_InfusionofLight</Icon>
+        <Name>Infusion of Light</Name>
+        <Points>1</Points>
+        <Dependancy>Holy Shock</Dependancy>
+        <Arrow>
+          <Name>ArrowLong</Name>
+          <X>88</X>
+          <Y>440</Y>
+        </Arrow>
+        <Tier>10</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your Holy Shock critical hits reduce the cast time of your next Flash of Light by 0.75 sec or increase the critical chance of your next Holy Light by 10%.  In addition, causes your Flash of Light to heal targets with Sacred Shield for an additional 50% over 12 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your Holy Shock critical hits reduce the cast time of your next Flash of Light by 1.5 sec or increase the critical chance of your next Holy Light by 20%.  In addition, causes your Flash of Light to heal targets with Sacred Shield for an additional 100% over 12 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_EnlightenedJudgements</Icon>
+        <Name>Enlightened Judgements</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>10</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the range of your Judgement of Light and Judgement of Wisdom spells by 15 yards and increases your chance to hit by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the range of your Judgement of Light and Judgement of Wisdom spells by 30 yards and increases your chance to hit by 4%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_BeaconofLight</Icon>
+        <Name>Beacon of Light</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>11</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>The target becomes a Beacon of Light to all members of your party or raid within a 60 yard radius.  Any heals you cast on party or raid members will also heal the Beacon for 100% of the amount healed.  Only one target can be the Beacon of Light at a time. Lasts 1 min.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+    </Talents>
+  </Specialization>
+  <Specialization>
+    <Name>Protection</Name>
+    <Talents>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_BlindingHeal</Icon>
+        <Name>Divinity</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases all healing done by you and all healing effects on you by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases all healing done by you and all healing effects on you by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases all healing done by you and all healing effects on you by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases all healing done by you and all healing effects on you by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases all healing done by you and all healing effects on you by 5%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_GolemThunderClap</Icon>
+        <Name>Divine Strength</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your total Strength by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your total Strength by 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your total Strength by 9%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases your total Strength by 12%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases your total Strength by 15%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_Stoicism</Icon>
+        <Name>Stoicism</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the duration of all Stun effects by an additional 10% and reduces the chance your helpful spells and damage over time effects will be dispelled by an additional 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the duration of all Stun effects by an additional 20% and reduces the chance your helpful spells and damage over time effects will be dispelled by an additional 20%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the duration of all Stun effects by an additional 30% and reduces the chance your helpful spells and damage over time effects will be dispelled by an additional 30%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_SealOfProtection</Icon>
+        <Name>Guardian's Favor</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the cooldown of your Hand of Protection by 60 sec and increases the duration of your Hand of Freedom by 2 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the cooldown of your Hand of Protection by 2 min and increases the duration of your Hand of Freedom by 4 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Magic_LesserInvisibilty</Icon>
+        <Name>Anticipation</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your chance to dodge by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your chance to dodge by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your chance to dodge by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases your chance to dodge by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases your chance to dodge by 5%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>spell_holy_powerwordbarrier</Icon>
+        <Name>Divine Sacrifice</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>30% of all damage taken by party members within 30 yards is redirected to the Paladin (up to a maximum of 40% of the Paladin's health times the number of party members).  Damage which reduces the Paladin below 20% health will break the effect.  Lasts 10 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_SealOfFury</Icon>
+        <Name>Improved Righteous Fury</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>While Righteous Fury is active, all damage taken is reduced by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>While Righteous Fury is active, all damage taken is reduced by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>While Righteous Fury is active, all damage taken is reduced by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_Devotion</Icon>
+        <Name>Toughness</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your armor value from items by 2% and reduces the duration of all movement slowing effects by 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your armor value from items by 4% and reduces the duration of all movement slowing effects by 12%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your armor value from items by 6% and reduces the duration of all movement slowing effects by 18%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases your armor value from items by 8% and reduces the duration of all movement slowing effects by 24%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases your armor value from items by 10% and reduces the duration of all movement slowing effects by 30%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>spell_holy_powerwordbarrier</Icon>
+        <Name>Divine Guardian</Name>
+        <Points>1</Points>
+        <Dependancy>Divine Sacrifice</Dependancy>
+        <Arrow>
+          <Name>ArrowShort</Name>
+          <X>28</X>
+          <Y>200</Y>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When Divine Sacrifice is activated, your party and raid members within 30 yards take 10% reduced damage for 6 sec.  In addition, increases the duration of your Sacred Shield by 50% and the amount absorbed by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>When Divine Sacrifice is activated, your party and raid members within 30 yards take 20% reduced damage for 6 sec.  In addition, increases the duration of your Sacred Shield by 100% and the amount absorbed by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_SealOfMight</Icon>
+        <Name>Improved Hammer of Justice</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Decreases the cooldown of your Hammer of Justice spell by 10 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Decreases the cooldown of your Hammer of Justice spell by 20 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_DevotionAura</Icon>
+        <Name>Improved Devotion Aura</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the armor bonus of your Devotion Aura by 17% and increases the amount healed on any target affected by any of your Auras by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the armor bonus of your Devotion Aura by 34% and increases the amount healed on any target affected by any of your Auras by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the armor bonus of your Devotion Aura by 50% and increases the amount healed on any target affected by any of your Auras by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Nature_LightningShield</Icon>
+        <Name>Blessing of Sanctuary</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Places a Blessing on the friendly target, reducing damage taken from all sources by 3% for 10 min and increasing strength and stamina by 10%.  In addition, when the target blocks, parries, or dodges a melee attack the target will gain 2% of maximum displayed mana.  Players may only have one Blessing on them per Paladin at any one time.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_BlessingOfStrength</Icon>
+        <Name>Reckoning</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives you a 2% chance after being hit by any damaging attack that the next 4 weapon swings within 8 sec will generate an additional attack.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives you a 4% chance after being hit by any damaging attack that the next 4 weapon swings within 8 sec will generate an additional attack.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Gives you a 6% chance after being hit by any damaging attack that the next 4 weapon swings within 8 sec will generate an additional attack.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Gives you a 8% chance after being hit by any damaging attack that the next 4 weapon swings within 8 sec will generate an additional attack.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Gives you a 10% chance after blocking or being hit by any damaging attack that the next 4 weapon swings within 8 sec will generate an additional attack.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_DivineIntervention</Icon>
+        <Name>Sacred Duty</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your total Stamina by 2%, reduces the cooldown of your Divine Shield and Divine Protection spells by 30 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your total Stamina by 4%, reduces the cooldown of your Divine Shield and Divine Protection spells by 60 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>INV_Sword_20</Icon>
+        <Name>One-Handed Weapon Specialization</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases all damage you deal when a one-handed melee weapon is equipped by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases all damage you deal when a one-handed melee weapon is equipped by 7%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases all damage you deal when a one-handed melee weapon is equipped by 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_ReviveChampion</Icon>
+        <Name>Spiritual Attunement</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>A passive ability that gives the Paladin mana when healed by other friendly targets' spells.  The amount of mana gained is equal to 5% of the amount healed.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>A passive ability that gives the Paladin mana when healed by other friendly targets' spells.  The amount of mana gained is equal to 10% of the amount healed.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_BlessingOfProtection</Icon>
+        <Name>Holy Shield</Name>
+        <Points>1</Points>
+        <Dependancy>Blessing of Sanctuary</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>88</X>
+          <Y>320</Y>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases chance to block by 30% for 10 sec and deals 79 Holy damage for each attack blocked while active.  Each block expends a charge.  8 charges.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_ArdentDefender</Icon>
+        <Name>Ardent Defender</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Damage that takes you below 35% health is reduced by 7%.  In addition, attacks which would otherwise kill you cause you to be healed by up to 10% of your maximum health (amount healed based on defense).  This healing effect cannot occur more often than once every 2 min.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Damage that takes you below 35% health is reduced by 13%.  In addition, attacks which would otherwise kill you cause you to be healed by up to 20% of your maximum health (amount healed based on defense).  This healing effect cannot occur more often than once every 2 min.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Damage that takes you below 35% health is reduced by 20%.  In addition, attacks which would otherwise kill you cause you to be healed by up to 30% of your maximum health (amount healed based on defense).  This healing effect cannot occur more often than once every 2 min.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Defend</Icon>
+        <Name>Redoubt</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your block value by 10% and damaging melee and ranged attacks against you have a 10% chance to increase your chance to block by 10%.  Lasts 10 sec or 5 blocks.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your block value by 20% and damaging melee and ranged attacks against you have a 10% chance to increase your chance to block by 20%.  Lasts 10 sec or 5 blocks.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your block value by 30% and damaging melee and ranged attacks against you have a 10% chance to increase your chance to block by 30%.  Lasts 10 sec or 5 blocks.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_WeaponMastery</Icon>
+        <Name>Combat Expertise</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your expertise by 2, total Stamina and chance to critically hit by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your expertise by 4, total Stamina and chance to critically hit by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your expertise by 6, total Stamina and chance to critically hit by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_TouchedbyLight</Icon>
+        <Name>Touched by the Light</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your spell power by an amount equal to 20% of your Strength and increases the amount healed by your critical heals by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your spell power by an amount equal to 40% of your Strength and increases the amount healed by your critical heals by 20%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your spell power by an amount equal to 60% of your Strength and increases the amount healed by your critical heals by 30%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_AvengersShield</Icon>
+        <Name>Avenger's Shield</Name>
+        <Points>1</Points>
+        <Dependancy>Holy Shield</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>88</X>
+          <Y>440</Y>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Hurls a holy shield at the enemy, dealing 440+SPH*0.07+AP*0.07 to 536+SPH*0.07+AP*0.07 Holy damage, Dazing them and then jumping to additional nearby enemies.  Affects 3 total targets.  Lasts 10 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_GaurdedbytheLight</Icon>
+        <Name>Guarded by the Light</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces spell damage taken by 3% and gives a 50% chance to refresh the duration of your Divine Plea when you hit an enemy.  In addition, your Divine Plea spell is 50% less likely to be dispelled.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces spell damage taken by 6% and gives a 100% chance to refresh the duration of your Divine Plea when you hit an enemy.  In addition, your Divine Plea spell is 100% less likely to be dispelled.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_ShieldoftheTemplar</Icon>
+        <Name>Shield of the Templar</Name>
+        <Points>1</Points>
+        <Dependancy>Avenger's Shield</Dependancy>
+        <Arrow>
+          <Name>ArrowShort</Name>
+          <X>88</X>
+          <Y>560</Y>
+        </Arrow>
+        <Tier>10</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces all damage taken by 1% and grants your Avenger's Shield a 33% chance to silence your targets for 3 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces all damage taken by 2% and grants your Avenger's Shield a 66% chance to silence your targets for 3 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces all damage taken by 3% and grants your Avenger's Shield a 100% chance to silence your targets for 3 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_JudgementsoftheJust</Icon>
+        <Name>Judgements of the Just</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>10</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the cooldown of your Hammer of Justice by 5 sec, increases the duration of your Seal of Justice effect by 0.5 sec and your Judgement spells also reduce the melee attack speed of the target by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the cooldown of your Hammer of Justice by 10 sec, increases the duration of your Seal of Justice effect by 1 sec and your Judgement spells also reduce the melee attack speed of the target by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_HammeroftheRighteous</Icon>
+        <Name>Hammer of the Righteous</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>11</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Hammer the current target and up to 2 additional nearby targets, causing 4 times your main hand damage per second as Holy damage.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+    </Talents>
+  </Specialization>
+  <Specialization>
+    <Name>Retribution</Name>
+    <Talents>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Parry</Icon>
+        <Name>Deflection</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your Parry chance by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your Parry chance by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your Parry chance by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases your Parry chance by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases your Parry chance by 5%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_WindWalkOn</Icon>
+        <Name>Benediction</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the mana cost of all instant cast spells by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the mana cost of all instant cast spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the mana cost of all instant cast spells by 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Reduces the mana cost of all instant cast spells by 8%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Reduces the mana cost of all instant cast spells by 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_RighteousFury</Icon>
+        <Name>Improved Judgements</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Decreases the cooldown of your Judgement spells by 1 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Decreases the cooldown of your Judgement spells by 2 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_HolySmite</Icon>
+        <Name>Heart of the Crusader</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>In addition to the normal effect, your Judgement spells will also increase the critical strike chance of all attacks made against that target by an additional 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>In addition to the normal effect, your Judgement spells will also increase the critical strike chance of all attacks made against that target by an additional 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>In addition to the normal effect, your Judgement spells will also increase the critical strike chance of all attacks made against that target by an additional 3%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_FistOfJustice</Icon>
+        <Name>Improved Blessing of Might</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the attack power bonus of your Blessing of Might by 12%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the attack power bonus of your Blessing of Might by 25%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_Vindication</Icon>
+        <Name>Vindication</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives the Paladin's damaging attacks a chance to reduce the target's attack power by 23 for 10 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives the Paladin's damaging attacks a chance to reduce the target's attack power by 46 for 10 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_RetributionAura</Icon>
+        <Name>Conviction</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your chance to get a critical strike with all spells and attacks by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your chance to get a critical strike with all spells and attacks by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your chance to get a critical strike with all spells and attacks by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases your chance to get a critical strike with all spells and attacks by 4%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Warrior_InnerRage</Icon>
+        <Name>Seal of Command</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>All melee attacks deal mw*0.36 to MW*0.36 additional Holy damage.  When used with attacks or abilities that strike a single target, this additional Holy damage will strike up to 2 additional targets.  Lasts 30 min.
+
+Unleashing this Seal's energy will judge an enemy, instantly causing mw*0.19+AP*0.08+SPH*0.13 to MW*0.19+AP*0.08+SPH*0.13 Holy damage.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_PersuitofJustice</Icon>
+        <Name>Pursuit of Justice</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the duration of all Disarm effects by 25% and increases movement and mounted movement speed by 8%.  This does not stack with other movement speed increasing effects.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the duration of all Disarm effects by 50% and increases movement and mounted movement speed by 15%.  This does not stack with other movement speed increasing effects.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_EyeforanEye</Icon>
+        <Name>Eye for an Eye</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>All criticals against you cause 5% of the damage taken to the attacker as well.  The damage caused by Eye for an Eye will not exceed 50% of the Paladin's total health.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>All criticals against you cause 10% of the damage taken to the attacker as well.  The damage caused by Eye for an Eye will not exceed 50% of the Paladin's total health.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_HolySmite</Icon>
+        <Name>Sanctity of Battle</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your chance to critically hit with all spells and attacks by 1% and increases the damage caused by Exorcism and Crusader Strike by 5%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your chance to critically hit with all spells and attacks by 2% and increases the damage caused by Exorcism and Crusader Strike by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your chance to critically hit with all spells and attacks by 3% and increases the damage caused by Exorcism and Crusader Strike by 15%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_Crusade</Icon>
+        <Name>Crusade</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases all damage caused by 1% and all damage caused against Humanoids, Demons, Undead and Elementals by an additional 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases all damage caused by 2% and all damage caused against Humanoids, Demons, Undead and Elementals by an additional 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases all damage caused by 3% and all damage caused against Humanoids, Demons, Undead and Elementals by an additional 3%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>INV_Hammer_04</Icon>
+        <Name>Two-Handed Weapon Specialization</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage you deal with two-handed melee weapons by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage you deal with two-handed melee weapons by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage you deal with two-handed melee weapons by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_MindVision</Icon>
+        <Name>Sanctified Retribution</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage caused by Retribution Aura by 50% and all damage caused by friendly targets affected by any of your Auras is increased by 3%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Racial_Avatar</Icon>
+        <Name>Vengeance</Name>
+        <Points>3</Points>
+        <Dependancy>Conviction</Dependancy>
+        <Arrow>
+          <Name>ArrowLong</Name>
+          <X>88</X>
+          <Y>200</Y>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives you a 1% bonus to Physical and Holy damage you deal for 30 sec after dealing a critical strike from a weapon swing, spell, or ability.  This effect stacks up to 3 times.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives you a 2% bonus to Physical and Holy damage you deal for 30 sec after dealing a critical strike from a weapon swing, spell, or ability.  This effect stacks up to 3 times.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Gives you a 3% bonus to Physical and Holy damage you deal for 30 sec after dealing a critical strike from a weapon swing, spell, or ability.  This effect stacks up to 3 times.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_DivinePurpose</Icon>
+        <Name>Divine Purpose</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces your chance to be hit by spells and ranged attacks by 2% and gives your Hand of Freedom spell a 50% chance to remove any Stun effects on the target.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces your chance to be hit by spells and ranged attacks by 4% and gives your Hand of Freedom spell a 100% chance to remove any Stun effects on the target.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_ArtofWar</Icon>
+        <Name>The Art of War</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage of your Judgement, Crusader Strike and Divine Storm abilities by 5% and when your melee attacks critically hit the cast time of your next Flash of Light or Exorcism is reduced by 0.75 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage of your Judgement, Crusader Strike and Divine Storm abilities by 10% and when your melee attacks critically hit your next Flash of Light  or Exorcism spell becomes instant cast.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_PrayerOfHealing</Icon>
+        <Name>Repentance</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Puts the enemy target in a state of meditation, incapacitating them for up to 1 min, and removing the effect of Righteous Vengeance.  Any damage caused will awaken the target.  Usable against Demons, Dragonkin, Giants, Humanoids and Undead.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_JudgementoftheWise</Icon>
+        <Name>Judgements of the Wise</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your damaging Judgement spells have a 33% chance to grant the Replenishment effect to up to 10 party or raid members mana regeneration equal to 1% of their maximum mana per 5 sec for 15 sec, and to immediately grant you 25% of your base mana.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your damaging Judgement spells have a 66% chance to grant the Replenishment effect to up to 10 party or raid members mana regeneration equal to 1% of their maximum mana per 5 sec for 15 sec, and to immediately grant you 25% of your base mana.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Your damaging Judgement spells have a 100% chance to grant the Replenishment effect to up to 10 party or raid members mana regeneration equal to 1% of their maximum mana per 5 sec for 15 sec, and to immediately grant you 25% of your base mana.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_Fanaticism</Icon>
+        <Name>Fanaticism</Name>
+        <Points>1</Points>
+        <Dependancy>Repentance</Dependancy>
+        <Arrow>
+          <Name>ArrowShort</Name>
+          <X>88</X>
+          <Y>440</Y>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical strike chance of all Judgements capable of a critical hit by 6% and reduces threat caused by all actions by 10% except when under the effects of Righteous Fury.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the critical strike chance of all Judgements capable of a critical hit by 12% and reduces threat caused by all actions by 20% except when under the effects of Righteous Fury.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the critical strike chance of all Judgements capable of a critical hit by 18% and reduces threat caused by all actions by 30% except when under the effects of Righteous Fury.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_SanctifiedWrath</Icon>
+        <Name>Sanctified Wrath</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical strike chance of Hammer of Wrath by 25%, reduces the cooldown of Avenging Wrath by 30 secs and while affected by Avenging Wrath 25% of all damage caused bypasses damage reduction effects.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the critical strike chance of Hammer of Wrath by 50%, reduces the cooldown of Avenging Wrath by 60 secs and while affected by Avenging Wrath 50% of all damage caused bypasses damage reduction effects.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_SwiftRetribution</Icon>
+        <Name>Swift Retribution</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your auras also increase casting, ranged and melee attack speeds by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your auras also increase casting, ranged and melee attack speeds by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Your auras also increase casting, ranged and melee attack speeds by 3%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_CrusaderStrike</Icon>
+        <Name>Crusader Strike</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>An instant strike that causes 75% weapon damage.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_SheathofLight</Icon>
+        <Name>Sheath of Light</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your spell power by an amount equal to 10% of your attack power and your critical healing spells heal the target for 20% of the healed amount over 12 seconds.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your spell power by an amount equal to 20% of your attack power and your critical healing spells heal the target for 40% of the healed amount over 12 seconds.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your spell power by an amount equal to 30% of your attack power and your critical healing spells heal the target for 60% of the healed amount over 12 seconds.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_RighteousVengeance</Icon>
+        <Name>Righteous Vengeance</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>10</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When your Judgement, Crusader Strike and Divine Storm spells deal a critical strike, your target will take 10% additional damage over 8 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>When your Judgement, Crusader Strike and Divine Storm spells deal a critical strike, your target will take 20% additional damage over 8 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>When your Judgement, Crusader Strike and Divine Storm spells deal a critical strike, your target will take 30% additional damage over 8 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Paladin_DivineStorm</Icon>
+        <Name>Divine Storm</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>11</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>An instant weapon attack that causes 110% of weapon damage to up to 4 enemies within 8 yards.  The Divine Storm heals up to 3 party or raid members totaling 25% of the damage caused.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+    </Talents>
+  </Specialization>
+</Specializations>

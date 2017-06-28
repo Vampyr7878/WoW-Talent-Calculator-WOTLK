@@ -1,0 +1,2792 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Specializations>
+  <Specialization>
+    <Name>Arcane</Name>
+    <Talents>
+      <Talent>
+        <Icon>Spell_Holy_DispelMagic</Icon>
+        <Name>Arcane Subtlety</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the chance your helpful spells and damage over time effects will be dispelled by 15% and reduces the threat caused by your Arcane spells by 20%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the chance your helpful spells and damage over time effects will be dispelled by 30% and reduces the threat caused by your Arcane spells by 40%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_Devotion</Icon>
+        <Name>Arcane Focus</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your chance to hit and reduces the mana cost of your Arcane spells by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your chance to hit and reduces the mana cost of your Arcane spells by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your chance to hit and reduces the mana cost of your Arcane spells by 3%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Nature_StarFall</Icon>
+        <Name>Arcane Stability</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting Arcane Missiles and Arcane Blast by 20%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting Arcane Missiles and Arcane Blast by 40%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting Arcane Missiles and Arcane Blast by 60%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting Arcane Missiles and Arcane Blast by 80%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting Arcane Missiles and Arcane Blast by 100%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Arcane_ArcaneResilience</Icon>
+        <Name>Arcane Fortitude</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your armor by an amount equal to 50% of your Intellect.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your armor by an amount equal to 100% of your Intellect.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your armor by an amount equal to 150% of your Intellect.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Nature_AstralRecalGroup</Icon>
+        <Name>Magic Absorption</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases all resistances by .5 per level and causes all spells you fully resist to restore 1% of your total mana.  1 sec cooldown.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases all resistances by 1 per level and causes all spells you fully resist to restore 2% of your total mana.  1 sec cooldown.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_ManaBurn</Icon>
+        <Name>Arcane Concentration</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives you a 2% chance of entering a Clearcasting state after any damage spell hits a target.  The Clearcasting state reduces the mana cost of your next damage spell by 100%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives you a 4% chance of entering a Clearcasting state after any damage spell hits a target.  The Clearcasting state reduces the mana cost of your next damage spell by 100%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Gives you a 6% chance of entering a Clearcasting state after any damage spell hits a target.  The Clearcasting state reduces the mana cost of your next damage spell by 100%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Gives you a 8% chance of entering a Clearcasting state after any damage spell hits a target.  The Clearcasting state reduces the mana cost of your next damage spell by 100%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Gives you a 10% chance of entering a Clearcasting state after any damage spell hits a target.  The Clearcasting state reduces the mana cost of your next damage spell by 100%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Nature_AbolishMagic</Icon>
+        <Name>Magic Attunement</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the range of your Arcane spells by 3 yards and the effect of your Amplify Magic and Dampen Magic spells by 25%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the range of your Arcane spells by 6 yards and the effect of your Amplify Magic and Dampen Magic spells by 50%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Nature_WispSplode</Icon>
+        <Name>Spell Impact</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage of your Arcane Explosion, Arcane Blast, Blast Wave, Fire Blast, Scorch, Fireball, Ice Lance and Cone of Cold spells by an additional 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage of your Arcane Explosion, Arcane Blast, Blast Wave, Fire Blast, Scorch, Fireball, Ice Lance and Cone of Cold spells by an additional 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage of your Arcane Explosion, Arcane Blast, Blast Wave, Fire Blast, Scorch, Fireball, Ice Lance and Cone of Cold spells by an additional 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_StudentOfTheMind</Icon>
+        <Name>Student of the Mind</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your total Spirit by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your total Spirit by 7%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your total Spirit by 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Arcane_StudentOfMagic</Icon>
+        <Name>Focus Magic</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the target's chance to critically hit with spells by 3%.  When the target critically hits the caster's chance to critically hit with spells is increased by 3% for 10 sec.  Cannot be cast on self.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_DetectLesserInvisibility</Icon>
+        <Name>Arcane Shielding</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Decreases the mana lost per point of damage taken when Mana Shield is active by 17% and increases the resistances granted by Mage Armor by 25%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Decreases the mana lost per point of damage taken when Mana Shield is active by 33% and increases the resistances granted by Mage Armor by 50%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_IceShock</Icon>
+        <Name>Improved Counterspell</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your Counterspell also silences the target for 2 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your Counterspell also silences the target for 4 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_SiphonMana</Icon>
+        <Name>Arcane Meditation</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Allows 17% of your mana regeneration to continue while casting.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Allows 33% of your mana regeneration to continue while casting.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Allows 50% of your mana regeneration to continue while casting.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_TormentOfTheWeak</Icon>
+        <Name>Torment the Weak</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your Frostbolt, Fireball, Frostfire Bolt, Pyroblast, Arcane Missiles, Arcane Blast, and Arcane Barrage abilities deal 4% more damage to snared or slowed targets.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your Frostbolt, Fireball, Frostfire Bolt, Pyroblast, Arcane Missiles, Arcane Blast, and Arcane Barrage abilities deal 8% more damage to snared or slowed targets.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Your Frostbolt, Fireball, Frostfire Bolt, Pyroblast, Arcane Missiles, Arcane Blast, and Arcane Barrage abilities deal 12% more damage to snared or slowed targets.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Arcane_Blink</Icon>
+        <Name>Improved Blink</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the mana cost of Blink by 25% and for 4 sec after casting your chance to be hit by all attacks and spells is reduced by 15%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the mana cost of Blink by 50% and for 4 sec after casting your chance to be hit by all attacks and spells is reduced by 30%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Nature_EnchantArmor</Icon>
+        <Name>Presence of Mind</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When activated, your next Mage spell with a casting time less than 10 sec becomes an instant cast spell.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_Charm</Icon>
+        <Name>Arcane Mind</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your total Intellect by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your total Intellect by 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your total Intellect by 9%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases your total Intellect by 12%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases your total Intellect by 15%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Arcane_PrismaticCloak</Icon>
+        <Name>Prismatic Cloak</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces all damage taken by 2% and reduces the fade time of your Invisibility spell by 1 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces all damage taken by 4% and reduces the fade time of your Invisibility spell by 2 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces all damage taken by 6% and reduces the fade time of your Invisibility spell by 3 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_Teleport</Icon>
+        <Name>Arcane Instability</Name>
+        <Points>1</Points>
+        <Dependancy>Presence of Mind</Dependancy>
+        <Arrow>
+          <Name>ArrowShort</Name>
+          <X>88</X>
+          <Y>320</Y>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your spells and your critical strike chance by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your spells and your critical strike chance by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage done by your spells and your critical strike chance by 3%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Arcane_ArcanePotency</Icon>
+        <Name>Arcane Potency</Name>
+        <Points>1</Points>
+        <Dependancy>Presence of Mind</Dependancy>
+        <Arrow>
+          <Name>ArrowRightMedium</Name>
+          <X>120</X>
+          <Y>290</Y>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical strike chance of your next damaging spell by 15% after gaining Clearcasting or Presence of Mind.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the critical strike chance of your next damaging spell by 30% after gaining Clearcasting or Presence of Mind.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Nature_StarFall</Icon>
+        <Name>Arcane Empowerment</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage of your Arcane Missiles spell by an amount equal to 15% of your spell power and the damage of your Arcane Blast by 3% of your spell power.  In addition, increases the damage of all party and raid members within 100 yds by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage of your Arcane Missiles spell by an amount equal to 30% of your spell power and the damage of your Arcane Blast by 6% of your spell power.  In addition, increases the damage of all party and raid members within 100 yds by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage of your Arcane Missiles spell by an amount equal to 45% of your spell power and the damage of your Arcane Blast by 9% of your spell power.  In addition, increases the damage of all party and raid members within 100 yds by 3%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Nature_Lightning</Icon>
+        <Name>Arcane Power</Name>
+        <Points>3</Points>
+        <Dependancy>Arcane Instability</Dependancy>
+        <Arrow>
+          <Name>ArrowShort</Name>
+          <X>88</X>
+          <Y>380</Y>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When activated, your spells deal 20% more damage while costing 20% more mana to cast.  This effect lasts 15 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_IncantersAbsorbtion</Icon>
+        <Name>Incanter's Absorption</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When your Mana Shield, Frost Ward, Fire Ward, or Ice Barrier absorbs damage your spell damage is increased by 5% of the amount absorbed for 10 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>When your Mana Shield, Frost Ward, Fire Ward, or Ice Barrier absorbs damage your spell damage is increased by 10% of the amount absorbed for 10 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>When your Mana Shield, Frost Ward, Fire Ward, or Ice Barrier absorbs damage your spell damage is increased by 15% of the amount absorbed for 10 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_PotentSpirit</Icon>
+        <Name>Arcane Flows</Name>
+        <Points>1</Points>
+        <Dependancy>Arcane Power</Dependancy>
+        <Arrow>
+          <Name>ArrowShort</Name>
+          <X>88</X>
+          <Y>440</Y>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the cooldown of your Presence of Mind, Arcane Power and Invisibility spells by 15% and the cooldown of your Evocation spell by 1 min.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the cooldown of your Presence of Mind, Arcane Power and Invisibility spells by 30% and the cooldown of your Evocation spell by 2 min.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Arcane_MindMastery</Icon>
+        <Name>Mind Mastery</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases spell power by 3% of your total Intellect.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases spell power by 6% of your total Intellect.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases spell power by 9% of your total Intellect.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases spell power by 12% of your total Intellect.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases spell power by 15% of your total Intellect.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Nature_Slow</Icon>
+        <Name>Slow</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces target's movement speed by 60%, increases the time between ranged attacks by 60% and increases casting time by 30%.  Lasts 15 sec.  Slow can only affect one target at a time.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_MissileBarrage</Icon>
+        <Name>Missile Barrage</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives your Arcane Blast a 8% chance, and your Arcane Barrage, Fireball, Frostbolt and Frostfire Bolt spells a 4% chance to reduce the channeled duration of the next Arcane Missiles spell by 2.5 secs, reduce the mana cost by 100%, and missiles will fire every .5 secs.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives your Arcane Blast a 16% chance, and your Arcane Barrage, Fireball, Frostbolt and Frostfire Bolt spells a 8% chance to reduce the channeled duration of the next Arcane Missiles spell by 2.5 secs, reduce the mana cost by 100%, and missiles will fire every .5 secs.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Gives your Arcane Blast a 24% chance, and your Arcane Barrage, Fireball, Frostbolt and Frostfire Bolt spells a 12% chance to reduce the channeled duration of the next Arcane Missiles spell by 2.5 secs, reduce the mana cost by 100%, and missiles will fire every .5 secs.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Gives your Arcane Blast a 32% chance, and your Arcane Barrage, Fireball, Frostbolt and Frostfire Bolt spells a 16% chance to reduce the channeled duration of the next Arcane Missiles spell by 2.5 secs, reduce the mana cost by 100%, and missiles will fire every .5 secs.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Gives your Arcane Blast a 40% chance, and your Arcane Barrage, Fireball, Frostbolt and Frostfire Bolt spells a 20% chance to reduce the channeled duration of the next Arcane Missiles spell by 2.5 secs, reduce the mana cost by 100%, and missiles will fire every .5 secs.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_NetherWindPresence</Icon>
+        <Name>Netherwind Presence</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>10</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your spell haste by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your spell haste by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your spell haste by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Arcane_ArcaneTorrent</Icon>
+        <Name>Spell Power</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>10</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases critical strike damage bonus of all spells by 25%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases critical strike damage bonus of all spells by 50%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_ArcaneBarrage</Icon>
+        <Name>Arcane Barrage</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>11</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Launches several missiles at the enemy target, causing 386 to 471 Arcane damage.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+    </Talents>
+  </Specialization>
+  <Specialization>
+    <Name>Fire</Name>
+    <Talents>
+      <Talent>
+        <Icon>Spell_Fire_Fireball</Icon>
+        <Name>Improved Fire Blast</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the cooldown of your Fire Blast spell by 1 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the cooldown of your Fire Blast spell by 2 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_FlameShock</Icon>
+        <Name>Incineration</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical strike chance of your Fire Blast, Scorch, Arcane Blast and Cone of Cold spells by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the critical strike chance of your Fire Blast, Scorch, Arcane Blast and Cone of Cold spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the critical strike chance of your Fire Blast, Scorch, Arcane Blast and Cone of Cold spells by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_FlameBolt</Icon>
+        <Name>Improved Fireball</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the casting time of your Fireball spell by 0.1 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the casting time of your Fireball spell by 0.2 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the casting time of your Fireball spell by 0.3 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Reduces the casting time of your Fireball spell by 0.4 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Reduces the casting time of your Fireball spell by 0.5 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_Incinerate</Icon>
+        <Name>Ignite</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your critical strikes from Fire damage spells cause the target to burn for an additional 8% of your spell's damage over 4 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your critical strikes from Fire damage spells cause the target to burn for an additional 16% of your spell's damage over 4 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Your critical strikes from Fire damage spells cause the target to burn for an additional 24% of your spell's damage over 4 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Your critical strikes from Fire damage spells cause the target to burn for an additional 32% of your spell's damage over 4 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Your critical strikes from Fire damage spells cause the target to burn for an additional 40% of your spell's damage over 4 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_TotemOfWrath</Icon>
+        <Name>Burning Determination</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When Interrupted or Silenced you have a 50% chance to become immune to the next Interrupt or Silence mechanic.  Lasts 20 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>When Interrupted or Silenced you have a 100% chance to become immune to the next Interrupt or Silence mechanic.  Lasts 20 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_WorldInFlames</Icon>
+        <Name>World in Flames</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical strike chance of your Flamestrike, Pyroblast, Blast Wave, Dragon's Breath, Living Bomb, Blizzard and Arcane Explosion spells by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the critical strike chance of your Flamestrike, Pyroblast, Blast Wave, Dragon's Breath, Living Bomb, Blizzard and Arcane Explosion spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the critical strike chance of your Flamestrike, Pyroblast, Blast Wave, Dragon's Breath, Living Bomb, Blizzard and Arcane Explosion spells by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_Flare</Icon>
+        <Name>Flame Throwing</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the range of all Fire spells except Frostfire Bolt by 3 yards.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the range of all Fire spells except Frostfire Bolt by 6 yards.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_MeteorStorm</Icon>
+        <Name>Impact</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives your damaging spells a 4% chance to cause the next Fire Blast you cast to stun the target for 2 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives your damaging spells a 7% chance to cause the next Fire Blast you cast to stun the target for 2 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Gives your damaging spells a 10% chance to cause the next Fire Blast you cast to stun the target for 2 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_Fireball02</Icon>
+        <Name>Pyroblast</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Hurls an immense fiery boulder that causes 141 to 188 Fire damage and an additional 56 Fire damage over 12 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_Fire</Icon>
+        <Name>Burning Soul</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting Fire spells by 35% and reduces the threat caused by your Fire spells by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting Fire spells by 70% and reduces the threat caused by your Fire spells by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_SoulBurn</Icon>
+        <Name>Improved Scorch</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your chance to critically hit with Scorch, Fireball and Frostfire Bolt by an additional 1% and your damaging Scorch spells have a 33% chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target by 5% and lasts 30 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your chance to critically hit with Scorch, Fireball and Frostfire Bolt by an additional 2% and your damaging Scorch spells have a 66% chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target by 5% and lasts 30 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your chance to critically hit with Scorch, Fireball and Frostfire Bolt by an additional 3% and your damaging Scorch spells have a 100% chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target by 5% and lasts 30 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_FireArmor</Icon>
+        <Name>Molten Shields</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Causes your Fire Ward and Frost Ward spells to have a 15% chance to reflect the warded spell while active. In addition, your Molten Armor has a 50% chance to affect ranged and spell attacks.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Causes your Fire Ward and Frost Ward spells to have a 30% chance to reflect the warded spell while active. In addition, your Molten Armor has a 100% chance to affect ranged and spell attacks.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_MasterOfElements</Icon>
+        <Name>Master of Elements</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your spell criticals will refund 10% of their base mana cost.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your spell criticals will refund 20% of their base mana cost.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Your spell criticals will refund 30% of their base mana cost.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_PlayingWithFire</Icon>
+        <Name>Playing with Fire</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases all spell damage caused by 1% and all spell damage taken by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases all spell damage caused by 2% and all spell damage taken by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases all spell damage caused by 3% and all spell damage taken by 3%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Nature_WispHeal</Icon>
+        <Name>Critical Mass</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical strike chance of your Fire spells by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the critical strike chance of your Fire spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the critical strike chance of your Fire spells by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_Excorcism_02</Icon>
+        <Name>Blast Wave</Name>
+        <Points>1</Points>
+        <Dependancy>Pyroblast</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>148</X>
+          <Y>200</Y>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>A wave of flame radiates outward from the caster, damaging all enemies caught within the blast for 154 to 187 Fire damage, knocking them back and dazing them for 6 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_BurningSpeed</Icon>
+        <Name>Blazing Speed</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives you a 5% chance when hit by a melee or ranged attack to increase your movement speed by 50% and dispel all movement impairing effects.  This effect lasts 8 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives you a 10% chance when hit by a melee or ranged attack to increase your movement speed by 50% and dispel all movement impairing effects.  This effect lasts 8 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_Immolation</Icon>
+        <Name>Fire Power</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your Fire spells by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your Fire spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage done by your Fire spells by 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the damage done by your Fire spells by 8%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases the damage done by your Fire spells by 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_Burnout</Icon>
+        <Name>Pyromaniac</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases chance to critically hit by 1% and allows 17% of your mana regeneration to continue while casting.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases chance to critically hit by 2% and allows 33% of your mana regeneration to continue while casting.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases chance to critically hit by 3% and allows 50% of your mana regeneration to continue while casting.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_SealOfFire</Icon>
+        <Name>Combustion</Name>
+        <Points>3</Points>
+        <Dependancy>Critical Mass</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>88</X>
+          <Y>320</Y>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When activated, this spell increases your critical strike damage bonus with Fire damage spells by 50%, and causes each of your Fire damage spell hits to increase your critical strike chance with Fire damage spells by 10%.  This effect lasts until you have caused 3 non-periodic critical strikes with Fire spells.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_MoltenBlood</Icon>
+        <Name>Molten Fury</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases damage of all spells against targets with less than 35% health by 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases damage of all spells against targets with less than 35% health by 12%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_FieryPayback</Icon>
+        <Name>Fiery Payback</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When below 35% health all damage taken is reduced by 10% and your Pyroblast spell's cast time is reduced by 1.75 secs while the cooldown is increased by 2.5 secs.  In addition, melee and ranged attacks made against you have a 5% chance to disarm your attacker's main hand and ranged weapons.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>When below 35% health all damage taken is reduced by 20% and your Pyroblast spell's cast time is reduced by 3.5 secs while the cooldown is increased by 5 secs.  In addition, melee and ranged attacks made against you have a 10% chance to disarm your attacker's main hand and ranged weapons.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_FlameBolt</Icon>
+        <Name>Empowered Fire</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage of your Fireball, Frostfire Bolt and Pyroblast spells by an amount equal to 5% of your spell power.  In addition, each time your Ignite talent causes damage, you have a 33% chance to regain 2% of your base mana.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage of your Fireball, Frostfire Bolt and Pyroblast spells by an amount equal to 10% of your spell power.  In addition, each time your Ignite talent causes damage, you have a 67% chance to regain 2% of your base mana.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage of your Fireball, Frostfire Bolt and Pyroblast spells by an amount equal to 15% of your spell power.  In addition, each time your Ignite talent causes damage, you have a 100% chance to regain 2% of your base mana.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_FireStarter</Icon>
+        <Name>Firestarter</Name>
+        <Points>1</Points>
+        <Dependancy>Dragon's Breath</Dependancy>
+        <Arrow>
+          <Name>ArrowLeftShort</Name>
+          <X>60</X>
+          <Y>528</Y>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your damaging Blast Wave and Dragon's Breath spells have a 50% chance to make your next Flamestrike spell instant cast and cost no mana.  Lasts 10 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your damaging Blast Wave and Dragon's Breath spells have a 100% chance to make your next Flamestrike spell instant cast and cost no mana.  Lasts 10 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>INV_Misc_Head_Dragon_01</Icon>
+        <Name>Dragon's Breath</Name>
+        <Points>1</Points>
+        <Dependancy>Combustion</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>88</X>
+          <Y>440</Y>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Targets in a cone in front of the caster take 370 to 431 Fire damage and are Disoriented for 5 sec.  Any direct damaging attack will revive targets.  Turns off your attack when used.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_HotStreak</Icon>
+        <Name>Hot Streak</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Any time you score 2 non-periodic spell criticals in a row using Fireball, Fire Blast, Scorch, Living Bomb, or Frostfire Bolt, you have a 33% chance the next Pyroblast spell cast within 10 sec will be instant cast.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Any time you score 2 non-periodic spell criticals in a row using Fireball, Fire Blast, Scorch, Living Bomb, or Frostfire Bolt, you have a 66% chance the next Pyroblast spell cast within 10 sec will be instant cast.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Any time you score 2 non-periodic spell criticals in a row using Fireball, Fire Blast, Scorch, Living Bomb, or Frostfire Bolt, you have a 100% chance the next Pyroblast spell cast within 10 sec will be instant cast.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_Burnout</Icon>
+        <Name>Burnout</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>10</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your spell critical damage bonus with all spells by 10% but your non-periodic spell criticals cost an additional 1% of the spell's cost.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your spell critical damage bonus with all spells by 20% but your non-periodic spell criticals cost an additional 2% of the spell's cost.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your spell critical damage bonus with all spells by 30% but your non-periodic spell criticals cost an additional 3% of the spell's cost.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases your spell critical damage bonus with all spells by 40% but your non-periodic spell criticals cost an additional 4% of the spell's cost.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases your spell critical damage bonus with all spells by 50% but your non-periodic spell criticals cost an additional 5% of the spell's cost.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_LivingBomb</Icon>
+        <Name>Living Bomb</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>11</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>The target becomes a Living Bomb, taking 612 Fire damage over 12 sec.  After 12 sec or when the spell is dispelled, the target explodes dealing 306 Fire damage to all enemies within 10 yards.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+    </Talents>
+  </Specialization>
+  <Specialization>
+    <Name>Frost</Name>
+    <Talents>
+      <Talent>
+        <Icon>Spell_Frost_FrostArmor</Icon>
+        <Name>Frostbite</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives your Chill effects a 5% chance to freeze the target for 5 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives your Chill effects a 10% chance to freeze the target for 5 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Gives your Chill effects a 15% chance to freeze the target for 5 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_FrostBolt02</Icon>
+        <Name>Improved Frostbolt</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the casting time of your Frostbolt spell by 0.1 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the casting time of your Frostbolt spell by 0.2 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the casting time of your Frostbolt spell by 0.3 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Reduces the casting time of your Frostbolt spell by 0.4 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Reduces the casting time of your Frostbolt spell by 0.5 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_IceFloes</Icon>
+        <Name>Ice Floes</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the cooldown of your Frost Nova, Cone of Cold, Ice Block and Icy Veins spells by 7%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the cooldown of your Frost Nova, Cone of Cold, Ice Block and Icy Veins spells by 14%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the cooldown of your Frost Nova, Cone of Cold, Ice Block and Icy Veins spells by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_IceShard</Icon>
+        <Name>Ice Shards</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical strike damage bonus of your Frost spells by 33%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the critical strike damage bonus of your Frost spells by 66%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the critical strike damage bonus of your Frost spells by 100%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_FrostWard</Icon>
+        <Name>Frost Warding</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the armor and resistances given by your Frost Armor and Ice Armor spells by 25%.  In addition, gives your Frost Ward and Fire Ward a 15% chance to negate the warded damage spell and restore mana equal to the damage caused.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the armor and resistances given by your Frost Armor and Ice Armor spells by 50%.  In addition, gives your Frost Ward and Fire Ward a 30% chance to negate the warded damage spell and restore mana equal to the damage caused.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Ice_MagicDamage</Icon>
+        <Name>Precision</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the mana cost and increases your chance to hit with spells by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the mana cost and increases your chance to hit with spells by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the mana cost and increases your chance to hit with spells by 3%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_Wisp</Icon>
+        <Name>Permafrost</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the duration of your Chill effects by 1 sec, reduces the target's speed by an additional 4%, and reduces the target's healing received by 7%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the duration of your Chill effects by 2 secs, reduces the target's speed by an additional 7%, and reduces the target's healing received by 13%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the duration of your Chill effects by 3 secs, reduces the target's speed by an additional 10%, and reduces the target's healing received by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_Frostbolt</Icon>
+        <Name>Piercing Ice</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your Frost spells by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your Frost spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage done by your Frost spells by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_ColdHearted</Icon>
+        <Name>Icy Veins</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Hastens your spellcasting, increasing spell casting speed by 20% and reduces the pushback suffered from damaging attacks while casting by 100%.  Lasts 20 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_IceStorm</Icon>
+        <Name>Improved Blizzard</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Adds a chill effect to your Blizzard spell.  This effect lowers the target's movement speed by 25%.  Lasts 1 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Adds a chill effect to your Blizzard spell.  This effect lowers the target's movement speed by 40%.  Lasts 1 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Adds a chill effect to your Blizzard spell.  This effect lowers the target's movement speed by 50%.  Lasts 1 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_DarkRitual</Icon>
+        <Name>Arctic Reach</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the range of your Frostbolt, Ice Lance, Deep Freeze and Blizzard spells and the radius of your Frost Nova and Cone of Cold spells by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the range of your Frostbolt, Ice Lance, Deep Freeze and Blizzard spells and the radius of your Frost Nova and Cone of Cold spells by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_Stun</Icon>
+        <Name>Frost Channeling</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the mana cost of all spells by 4% and reduces the threat caused by your Frost spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the mana cost of all spells by 7% and reduces the threat caused by your Frost spells by 7%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the mana cost of all spells by 10% and reduces the threat caused by your Frost spells by 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_FrostShock</Icon>
+        <Name>Shatter</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical strike chance of all your spells against frozen targets by 17%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the critical strike chance of all your spells against frozen targets by 34%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the critical strike chance of all your spells against frozen targets by 50%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_WizardMark</Icon>
+        <Name>Cold Snap</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When activated, this spell finishes the cooldown on all Frost spells you recently cast.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_Glacier</Icon>
+        <Name>Improved Cone of Cold</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage dealt by your Cone of Cold spell by 15%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage dealt by your Cone of Cold spell by 25%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage dealt by your Cone of Cold spell by 35%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_FrozenCore</Icon>
+        <Name>Frozen Core</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the damage taken from all spells by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the damage taken from all spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the damage taken from all spells by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_ColdAsIce</Icon>
+        <Name>Cold as Ice</Name>
+        <Points>1</Points>
+        <Dependancy>Cold Snap</Dependancy>
+        <Arrow>
+          <Name>ArrowLeftMedium</Name>
+          <X>28</X>
+          <Y>290</Y>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the cooldown of your Cold Snap, Ice Barrier and Summon Water Elemental spells by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the cooldown of your Cold Snap, Ice Barrier and Summon Water Elemental spells by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_ChillingBlast</Icon>
+        <Name>Winter's Chill</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your chance to critically hit with Frostbolt by an additional 1% and gives your Frost damage spells a 33% chance to apply the Winter's Chill effect, which increases the chance spells will critically hit the target by 1% for 15 sec.  Stacks up to 5 times.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your chance to critically hit with Frostbolt by an additional 2% and gives your Frost damage spells a 66% chance to apply the Winter's Chill effect, which increases the chance spells will critically hit the target by 1% for 15 sec.  Stacks up to 5 times.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your chance to critically hit with Frostbolt by an additional 3% and gives your Frost damage spells a 100% chance to apply the Winter's Chill effect, which increases the chance spells will critically hit the target by 1% for 15 sec.  Stacks up to 5 times.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_ShatterShield</Icon>
+        <Name>Shattered Barrier</Name>
+        <Points>1</Points>
+        <Dependancy>Ice Barrier</Dependancy>
+        <Arrow>
+          <Name>ArrowLeftShort</Name>
+          <X>60</X>
+          <Y>408</Y>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives your Ice Barrier spell a 50% chance to freeze all enemies within 10 yds for 8 sec when it is destroyed.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives your Ice Barrier spell a 100% chance to freeze all enemies within 10 yds for 8 sec when it is destroyed.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Ice_Lament</Icon>
+        <Name>Ice Barrier</Name>
+        <Points>1</Points>
+        <Dependancy>Cold Snap</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>88</X>
+          <Y>320</Y>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Instantly shields you, absorbing 438 damage.  Lasts 1 min.  While the shield holds, spellcasting will not be delayed by damage.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_ArcticWinds</Icon>
+        <Name>Arctic Winds</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases all Frost damage you cause by 1% and reduces the chance melee and ranged attacks will hit you by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases all Frost damage you cause by 2% and reduces the chance melee and ranged attacks will hit you by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases all Frost damage you cause by 3% and reduces the chance melee and ranged attacks will hit you by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases all Frost damage you cause by 4% and reduces the chance melee and ranged attacks will hit you by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases all Frost damage you cause by 5% and reduces the chance melee and ranged attacks will hit you by 5%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_FrostBolt02</Icon>
+        <Name>Empowered Frostbolt</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage of your Frostbolt spell by an amount equal to 5% of your spell power and reduces the cast time by 0.1 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage of your Frostbolt spell by an amount equal to 10% of your spell power and reduces the cast time by 0.2 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_WintersGrasp</Icon>
+        <Name>Fingers of Frost</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives your Chill effects a 7% chance to grant you the Fingers of Frost effect, which treats your next 2 spells cast as if the target were Frozen.  Lasts 15 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives your Chill effects a 15% chance to grant you the Fingers of Frost effect, which treats your next 2 spells cast as if the target were Frozen.  Lasts 15 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_BrainFreeze</Icon>
+        <Name>Brain Freeze</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your Frost damage spells with chilling effects have a 5% chance to cause your next Fireball or Frostfire Bolt spell to be instant cast and cost no mana.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your Frost damage spells with chilling effects have a 10% chance to cause your next Fireball or Frostfire Bolt spell to be instant cast and cost no mana.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Your Frost damage spells with chilling effects have a 15% chance to cause your next Fireball or Frostfire Bolt spell to be instant cast and cost no mana.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_SummonWaterElemental_2</Icon>
+        <Name>Summon Water Elemental</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Summon a Water Elemental to fight for the caster for 45 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Frost_SummonWaterElemental_2</Icon>
+        <Name>Enduring Winter</Name>
+        <Points>1</Points>
+        <Dependancy>Summon Water Elemental</Dependancy>
+        <Arrow>
+          <Name>ArrowRightShort</Name>
+          <X>120</X>
+          <Y>528</Y>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the duration of your Summon Water Elemental spell by 5 sec and your Frostbolt spell has a 33% chance to grant up to 10 party or raid members mana regeneration equal to 1% of their maximum mana per 5 sec for 15 sec.  This effect cannot occur more often than once every 6 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the duration of your Summon Water Elemental spell by 10 sec and your Frostbolt spell has a 66% chance to grant up to 10 party or raid members mana regeneration equal to 1% of their maximum mana per 5 sec for 15 sec.  This effect cannot occur more often than once every 6 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the duration of your Summon Water Elemental spell by 15 sec and your Frostbolt spell has a 100% chance to grant up to 10 party or raid members mana regeneration equal to 1% of their maximum mana per 5 sec for 15 sec.  This effect cannot occur more often than once every 6 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_ChilledToTheBone</Icon>
+        <Name>Chilled to the Bone</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>10</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage caused by your Frostbolt, Frostfire Bolt and Ice Lance spells by 1% and reduces the movement speed of all chilled targets by an additional 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage caused by your Frostbolt, Frostfire Bolt and Ice Lance spells by 2% and reduces the movement speed of all chilled targets by an additional 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage caused by your Frostbolt, Frostfire Bolt and Ice Lance spells by 3% and reduces the movement speed of all chilled targets by an additional 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the damage caused by your Frostbolt, Frostfire Bolt and Ice Lance spells by 4% and reduces the movement speed of all chilled targets by an additional 8%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_DeepFreeze</Icon>
+        <Name>Deep Freeze</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>11</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Stuns the target for 5 sec.  Only usable on Frozen targets.  Deals 1469 to 1741 damage to targets permanently immune to stuns.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+    </Talents>
+  </Specialization>
+</Specializations>

@@ -1,0 +1,2834 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Specializations>
+  <Specialization>
+    <Name>Affliction</Name>
+    <Talents>
+      <Talent>
+        <Icon>Spell_Shadow_CurseOfSargeras</Icon>
+        <Name>Improved Curse of Agony</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your Curse of Agony by 5%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your Curse of Agony by 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_UnsummonBuilding</Icon>
+        <Name>Suppression</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your chance to hit with spells by 1%, and reduces the mana cost of your Affliction spells by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your chance to hit with spells by 2%, and reduces the mana cost of your Affliction spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your chance to hit with spells by 3%, and reduces the mana cost of your Affliction spells by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_AbominationExplosion</Icon>
+        <Name>Improved Corruption</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your Corruption by 2%, and increases the critical strike chance of your Seed of Corruption by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your Corruption by 4%, and increases the critical strike chance of your Seed of Corruption by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage done by your Corruption by 6%, and increases the critical strike chance of your Seed of Corruption by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the damage done by your Corruption by 8%, and increases the critical strike chance of your Seed of Corruption by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases the damage done by your Corruption by 10%, and increases the critical strike chance of your Seed of Corruption by 5%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_CurseOfMannoroth</Icon>
+        <Name>Improved Curse of Weakness</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the amount of attack power reduced by your Curse of Weakness by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the amount of attack power reduced by your Curse of Weakness by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_Haunting</Icon>
+        <Name>Improved Drain Soul</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Returns 7% of your maximum mana if the target is killed by you while you drain its soul.  In addition, your Affliction spells generate 10% less threat.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Returns 15% of your maximum mana if the target is killed by you while you drain its soul.  In addition, your Affliction spells generate 20% less threat.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_BurningSpirit</Icon>
+        <Name>Improved Life Tap</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the amount of Mana awarded by your Life Tap spell by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the amount of Mana awarded by your Life Tap spell by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_LifeDrain02</Icon>
+        <Name>Soul Siphon</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the amount drained by your Drain Life and Drain Soul spells by an additional 3% for each of your Affliction effects on the target, up to a maximum of 9% additional effect.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the amount drained by your Drain Life and Drain Soul spells by an additional 6% for each of your Affliction effects on the target, up to a maximum of 18% additional effect.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_Possession</Icon>
+        <Name>Improved Fear</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Causes your Fear spell to inflict a Nightmare on the target when the fear effect ends. The Nightmare effect reduces the target's movement speed by 15% for 5 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Causes your Fear spell to inflict a Nightmare on the target when the fear effect ends. The Nightmare effect reduces the target's movement speed by 30% for 5 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_FingerOfDeath</Icon>
+        <Name>Fel Concentration</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the pushback suffered from damaging attacks  while casting Drain Life, Drain Mana, Drain Soul, Unstable Affliction, and Haunt by 23%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the pushback suffered from damaging attacks  while casting Drain Life, Drain Mana, Drain Soul, Unstable Affliction, and Haunt spells by 46%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the pushback suffered from damaging attacks  while casting Drain Life, Drain Mana, Drain Soul,  Unstable Affliction, and Haunt spells by 70%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_Contagion</Icon>
+        <Name>Amplify Curse</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the global cooldown of your Curses by 0.5 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_CallofBone</Icon>
+        <Name>Grim Reach</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the range of your Affliction spells by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the range of your Affliction spells by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_Twilight</Icon>
+        <Name>Nightfall</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives your Corruption and Drain Life spells a 2% chance to cause you to enter a Shadow Trance state after damaging the opponent.  The Shadow Trance state reduces the casting time of your next Shadow Bolt spell by 100%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives your Corruption and Drain Life spells a 4% chance to cause you to enter a Shadow Trance state after damaging the opponent.  The Shadow Trance state reduces the casting time of your next Shadow Bolt spell by 100%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_AbominationExplosion</Icon>
+        <Name>Empowered Corruption</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage of your Corruption spell by an amount equal to 12% of your spell power.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage of your Corruption spell by an amount equal to 24% of your spell power.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage of your Corruption spell by an amount equal to 36% of your spell power.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_ShadowEmbrace</Icon>
+        <Name>Shadow Embrace</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your Shadow Bolt and Haunt spells apply the Shadow Embrace effect, increasing all shadow periodic damage dealt to the target by you by 1%, and reduces all periodic healing done to the target by 2%. Lasts for 12 sec. Stacks up to 3  times.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your Shadow Bolt and Haunt spells apply the Shadow Embrace effect, increasing all shadow periodic damage dealt to the target by you by 2%, and reduces all periodic healing done to the target by 4%. Lasts for 12 sec. Stacks up to 3 times.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Your Shadow Bolt and Haunt spells apply the Shadow Embrace effect, increasing all shadow periodic damage dealt to the target by you by 3%, and reduces all periodic healing done to the target by 6%. Lasts for 12 sec. Stacks up to 3 times.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Your Shadow Bolt and Haunt spells apply the Shadow Embrace effect, increasing all shadow periodic damage dealt to the target by you by 4%, and reduces all periodic healing done to the target by 8%. Lasts for 12 sec. Stacks up to 3 times.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Your Shadow Bolt and Haunt spells apply the Shadow Embrace effect, increasing all shadow periodic damage dealt to the target by you by 5%, and reduces all periodic healing done to the target by 10%. Lasts for 12 sec. Stacks up to 3 times.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_Requiem</Icon>
+        <Name>Siphon Life</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When you deal damage with your Corruption spell, you are instantly healed for 40% of the damage done. In addition, the damage done by your Corruption, Seed of Corruption and Unstable Affliction damage over time effects is increased by 5%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_GrimWard</Icon>
+        <Name>Curse of Exhaustion</Name>
+        <Points>1</Points>
+        <Dependancy>Amplify Curse</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>148</X>
+          <Y>200</Y>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the target's movement speed by 30% for 12 sec.  Only one Curse per Warlock can be active on any one target.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_SummonFelHunter</Icon>
+        <Name>Improved Felhunter</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your Felhunter regains 4% of its maximum mana each time it hits with its Shadow Bite ability and the cooldown on that ability is reduced by 2 sec.  In addition, increases the effect of your Felhunter's Fel Intelligence by 5%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your Felhunter regains 8% of its maximum mana each time it hits with its Shadow Bite ability and the cooldown on that ability is reduced by 4 sec.  In addition, increases the effect of your Felhunter's Fel Intelligence by 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_ShadeTrueSight</Icon>
+        <Name>Shadow Mastery</Name>
+        <Points>1</Points>
+        <Dependancy>Siphon Life</Dependancy>
+        <Arrow>
+          <Name>ArrowShort</Name>
+          <X>88</X>
+          <Y>320</Y>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage dealt or life drained by your Shadow spells and your Felhunter's Shadow Bite ability by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage dealt or life drained by your Shadow spells and your Felhunter's Shadow Bite ability by 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage dealt or life drained by your Shadow spells and your Felhunter's Shadow Bite ability by 9%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the damage dealt or life drained by your Shadow spells and your Felhunter's Shadow Bite ability by 12%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases the damage dealt or life drained by your Shadow spells and your Felhunter's Shadow Bite ability by 15%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Warlock_Eradication</Icon>
+        <Name>Eradication</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When you deal damage with Corruption, you have 6% chance to increase your spell casting speed by 6% for 10 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>When you deal damage with Corruption, you have 6% chance to increase your spell casting speed by 12% for 10 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>When you deal damage with Corruption, you have 6% chance to increase your spell casting speed by 20% for 10 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_PainfulAfflictions</Icon>
+        <Name>Contagion</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage of Curse of Agony, Corruption and Seed of Corruption by 1% and reduces the chance your helpful Affliction spells and damage over time effects will be dispelled by an additional 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage of Curse of Agony, Corruption and Seed of Corruption by 2% and reduces the chance your helpful Affliction spells and damage over time effects  will be dispelled by an additional 12%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage of Curse of Agony, Corruption and Seed of Corruption by 3% and reduces the chance your helpful Affliction spells and damage over time effects  will be dispelled by an additional 18%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the damage of Curse of Agony, Corruption and Seed of Corruption by 4% and reduces the chance your helpful Affliction spells and damage over time effects  will be dispelled by an additional 24%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases the damage of Curse of Agony, Corruption and Seed of Corruption by 5% and reduces the chance your helpful Affliction spells and damage over time effects  will be dispelled by an additional 30%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_DarkRitual</Icon>
+        <Name>Dark Pact</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Drains 305 of your summoned demon's Mana, returning 100% to you.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_DeathScream</Icon>
+        <Name>Improved Howl of Terror</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the casting time of your Howl of Terror spell by 0.8 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the casting time of your Howl of Terror spell by 1.5 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_CurseOfAchimonde</Icon>
+        <Name>Malediction</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your spell damage by 1%, and increases the periodic critical strike chance of your Corruption and Unstable Affliction spells by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your spell damage by 2%, and increases the periodic critical strike chance of your Corruption and Unstable Affliction spells by 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your spell damage by 3%, and increases the periodic critical strike chance of your Corruption and Unstable Affliction spells by 9%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_DeathsEmbrace</Icon>
+        <Name>Death's Embrace</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the amount drained by your Drain Life by 10% while your health is at or below 20% health, and increases the damage done by your Shadow spells by 4% when your target is at or below 35% health.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the amount drained by your Drain Life by 20% while your health is at or below 20% health, and increases the damage done by your Shadow spells by 8% when your target is at or below 35% health.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the amount drained by your Drain Life by 30% while your health is at or below 20% health, and increases the damage done by your Shadow spells by 12% when your target is at or below 35% health.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_UnstableAffliction_3</Icon>
+        <Name>Unstable Affliction</Name>
+        <Points>5</Points>
+        <Dependancy>Contagion</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>88</X>
+          <Y>440</Y>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Shadow energy slowly destroys the target, causing 550 damage over 15 sec.  In addition, if the Unstable Affliction is dispelled it will cause 990 damage to the dispeller and silence them for 5 sec. Only one Unstable Affliction or Immolate per Warlock can be active on any one target.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_UnstableAffliction_2</Icon>
+        <Name>Pandemic</Name>
+        <Points>1</Points>
+        <Dependancy>Unstable Affliction</Dependancy>
+        <Arrow>
+          <Name>ArrowRightShort</Name>
+          <X>120</X>
+          <Y>528</Y>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Grants the periodic damage from your Corruption and Unstable Affliction spells the ability to critically hit for 100% increased damage, and increases the critical strike damage bonus of your Haunt spell by 100%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Warlock_EverlastingAffliction</Icon>
+        <Name>Everlasting Affliction</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>10</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your Corruption and Unstable Affliction spells gain an additional 1% of your bonus spell damage, and your Drain Life, Drain Soul, Shadow Bolt, and Haunt spells have a 20% chance to reset the duration of your Corruption spell on the target.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your Corruption and Unstable Affliction spells gain an additional 2% of your bonus spell damage, and your Drain Life, Drain Soul, Shadow Bolt, and Haunt spells have a 40% chance to reset the duration of your Corruption spell on the target.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Your Corruption and Unstable Affliction spells gain an additional 3% of your bonus spell damage, and your Drain Life, Drain Soul, Shadow Bolt, and Haunt spells have a 60% chance to reset the duration of your Corruption spell on the target.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Your Corruption and Unstable Affliction spells gain an additional 4% of your bonus spell damage, and your Drain Life, Drain Soul, Shadow Bolt, and Haunt spells have a 80% chance to reset the duration of your Corruption spell on the target.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Your Corruption and Unstable Affliction spells gain an additional 5% of your bonus spell damage, and your Drain Life, Drain Soul, Shadow Bolt, and Haunt spells have a 100% chance to reset the duration of your Corruption spell on the target.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Warlock_Haunt</Icon>
+        <Name>Haunt</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>11</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>You send a ghostly soul into the target, dealing 405 to 474 Shadow damage and increasing all damage done by your Shadow damage-over-time effects on the target by 20% for 12 sec. When the Haunt spell ends or is dispelled, the soul returns to you, healing you for 100% of the damage it did to the target.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+    </Talents>
+  </Specialization>
+  <Specialization>
+    <Name>Demonology</Name>
+    <Talents>
+      <Talent>
+        <Icon>INV_Stone_04</Icon>
+        <Name>Improved Healthstone</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the amount of Health restored by your Healthstone by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the amount of Health restored by your Healthstone by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_SummonImp</Icon>
+        <Name>Improved Imp</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the effect of your Imp's Firebolt, Fire Shield, and Blood Pact spells by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the effect of your Imp's Firebolt, Fire Shield, and Blood Pact spells by 20%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the effect of your Imp's Firebolt, Fire Shield, and Blood Pact spells by 30%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_Metamorphosis</Icon>
+        <Name>Demonic Embrace</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your total Stamina by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your total Stamina by 7%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your total Stamina by 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_FelMending</Icon>
+        <Name>Fel Synergy</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>You have a 50% chance to heal your pet for 15% of the amount of spell damage done by you.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>You have a 100% chance to heal your pet for 15% of the amount of spell damage done by you.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_LifeDrain</Icon>
+        <Name>Improved Health Funnel</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the amount of Health transferred by your Health Funnel spell by 10% and reduces the health cost by 10%. In addition, your summoned Demon takes 15% less damage while under the effect of your Health Funnel.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the amount of Health transferred by your Health Funnel spell by 20% and reduces the health cost by 20%. In addition, your summoned Demon takes 30% less damage while under the effect of your Health Funnel.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_SummonVoidWalker</Icon>
+        <Name>Demonic Brutality</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the effectiveness of your Voidwalker's Torment, Consume Shadows, Sacrifice and Suffering spells by 10%, and increases the attack power bonus on your Felguard's Demonic Frenzy effect by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the effectiveness of your Voidwalker's Torment, Consume Shadows, Sacrifice and Suffering spells by 20%, and increases the attack power bonus on your Felguard's Demonic Frenzy effect by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the effectiveness of your Voidwalker's Torment, Consume Shadows, Sacrifice and Suffering spells by 30%, and increases the attack power bonus on your Felguard's Demonic Frenzy effect by 3%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Holy_MagicalSentry</Icon>
+        <Name>Fel Vitality</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the Stamina and Intellect of your Imp, Voidwalker, Succubus, Felhunter and Felguard by 5% and increases your maximum health and mana by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the Stamina and Intellect of your Imp, Voidwalker, Succubus, Felhunter and Felguard by 10% and increases your maximum health and mana by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the Stamina and Intellect of your Imp, Voidwalker, Succubus, Felhunter and Felguard by 15% and increases your maximum health and mana by 3%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_SummonSuccubus</Icon>
+        <Name>Improved Succubus</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the cast time of your Succubus' Seduction by 22%, and increases the duration of your Succubus' Seduction and Lesser Invisibility spells by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the cast time of your Succubus' Seduction by 44%, and increases the duration of your Succubus' Seduction and Lesser Invisibility spells by 20%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the cast time of your Succubus' Seduction by 66%, and increases the duration of your Succubus' Seduction and Lesser Invisibility spells by 30%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_GatherShadows</Icon>
+        <Name>Soul Link</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When active, 20% of all damage taken by the caster is taken by your Imp, Voidwalker, Succubus, Felhunter, Felguard, or enslaved demon instead.  That damage cannot be prevented. Lasts as long as the demon is active and controlled.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Nature_RemoveCurse</Icon>
+        <Name>Fel Domination</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your next Imp, Voidwalker, Succubus, Felhunter or Felguard Summon spell has its casting time reduced by 5.5 sec and its Mana cost reduced by 50%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_RagingScream</Icon>
+        <Name>Demonic Aegis</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the effectiveness of your Demon Armor and Fel Armor spells by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the effectiveness of your Demon Armor and Fel Armor spells by 20%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the effectiveness of your Demon Armor and Fel Armor spells by 30%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_ShadowWordDominate</Icon>
+        <Name>Unholy Power</Name>
+        <Points>1</Points>
+        <Dependancy>Soul Link</Dependancy>
+        <Arrow>
+          <Name>ArrowShort</Name>
+          <X>88</X>
+          <Y>200</Y>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your Voidwalker, Succubus, Felhunter and Felguard's melee attacks and your Imp's Firebolt by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your Voidwalker, Succubus, Felhunter and Felguard's melee attacks and your Imp's Firebolt by 8%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage done by your Voidwalker, Succubus, Felhunter and Felguard's melee attacks and your Imp's Firebolt by 12%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the damage done by your Voidwalker, Succubus, Felhunter and Felguard's melee attacks and your Imp's Firebolt by 16%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases the damage done by your Voidwalker, Succubus, Felhunter and Felguard's melee attacks and your Imp's Firebolt by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_ImpPhaseShift</Icon>
+        <Name>Master Summoner</Name>
+        <Points>1</Points>
+        <Dependancy>Fel Domination</Dependancy>
+        <Arrow>
+          <Name>ArrowShort</Name>
+          <X>148</X>
+          <Y>200</Y>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the casting time of your Imp, Voidwalker, Succubus, Felhunter and Fel Guard Summoning spells by 2 sec and the Mana cost by 20%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the casting time of your Imp, Voidwalker, Succubus, Felhunter and Fel Guard Summoning spells by 4 sec and the Mana cost by 40%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_ManaFeed</Icon>
+        <Name>Mana Feed</Name>
+        <Points>5</Points>
+        <Dependancy>Unholy Power</Dependancy>
+        <Arrow>
+          <Name>ArrowLeftMedium</Name>
+          <X>28</X>
+          <Y>230</Y>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When you gain mana from Drain Mana or Life Tap spells, your summoned demon gains 100% of the mana you gain.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>INV_Ammo_FireTar</Icon>
+        <Name>Master Conjuror</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the combat ratings gained from your conjured Firestone and Spellstone by 150%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the combat ratings gained from your conjured Firestone and Spellstone by 300%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_ShadowPact</Icon>
+        <Name>Master Demonologist</Name>
+        <Points>5</Points>
+        <Dependancy>Unholy Power</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>88</X>
+          <Y>260</Y>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Grants both the Warlock and the summoned demon an effect as long as that demon is active.
+
+Imp - Increases your Fire damage by 1%, and increases the critical effect chance of your Fire spells by 1%.
+
+Voidwalker - Reduces Physical damage taken by 2%.
+
+Succubus - Increases your Shadow damage by 1%, and increases the critical effect chance of your Shadow spells by 1%.
+
+Felhunter - Reduces all spell damage taken by 2%.
+
+Felguard - Increases all damage done by 1%, and reduces all damage taken by 1%.</Description>
+          </Rank>
+          <Rank>
+            <Number>1</Number>
+            <Description>Grants both the Warlock and the summoned demon an effect as long as that demon is active.
+
+Imp - Increases your Fire damage by 2%, and increases the critical effect chance of your Fire spells by 2%.
+
+Voidwalker - Reduces Physical damage taken by 4%.
+
+Succubus - Increases your Shadow damage by 2%, and increases the critical effect chance of your Shadow spells by 2%.
+
+Felhunter - Reduces all spell damage taken by 4%.
+
+Felguard - Increases all damage done by 2%, and reduces all damage taken by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>1</Number>
+            <Description>Grants both the Warlock and the summoned demon an effect as long as that demon is active.
+
+Imp - Increases your Fire damage by 3%, and increases the critical effect chance of your Fire spells by 3%.
+
+Voidwalker - Reduces Physical damage taken by 6%.
+
+Succubus - Increases your Shadow damage by 3%, and increases the critical effect chance of your Shadow spells by 3%.
+
+Felhunter - Reduces all spell damage taken by 6%.
+
+Felguard - Increases all damage done by 3%, and reduces all damage taken by 3%.</Description>
+          </Rank>
+          <Rank>
+            <Number>1</Number>
+            <Description>Grants both the Warlock and the summoned demon an effect as long as that demon is active.
+
+Imp - Increases your Fire damage by 4%, and increases the critical effect chance of your Fire spells by 4%.
+
+Voidwalker - Reduces Physical damage taken by 8%.
+
+Succubus - Increases your Shadow damage by 4%, and increases the critical effect chance of your Shadow spells by 4%.
+
+Felhunter - Reduces all spell damage taken by 8%.
+
+Felguard - Increases all damage done by 4%, and reduces all damage taken by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>1</Number>
+            <Description>Grants both the Warlock and the summoned demon an effect as long as that demon is active.
+
+Imp - Increases your Fire damage by 5%, and increases the critical effect chance of your Fire spells by 5%.
+
+Voidwalker - Reduces Physical damage taken by 10%.
+
+Succubus - Increases your Shadow damage by 5%, and increases the critical effect chance of your Shadow spells by 5%.
+
+Felhunter - Reduces all spell damage taken by 10%.
+
+Felguard - Increases all damage done by 5%, and reduces all damage taken by 5%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Warlock_MoltenCore</Icon>
+        <Name>Molten Core</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the duration of your Immolate by 3 sec, and you have a 4% chance to gain the Molten Core effect when your Corruption deals damage. The Molten Core effect empowers your next 3 Incinerate or Soul Fire spells cast within 15 sec.
+
+Incinerate - Increases damage done by 6% and reduces cast time by 10%.
+
+Soul Fire - Increases damage done by 6% and increases critical strike chance by 5%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the duration of your Immolate by 6 sec, and you have a 8% chance to gain the Molten Core effect when your Corruption deals damage. The Molten Core effect empowers your next 3 Incinerate or Soul Fire spells cast within 15 sec.
+
+Incinerate - Increases damage done by 12% and reduces cast time by 20%.
+
+Soul Fire - Increases damage done by 12% and increases critical strike chance by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the duration of your Immolate by 9 sec, and you have a 12% chance to gain the Molten Core effect when your Corruption deals damage. The Molten Core effect empowers your next 3 Incinerate or Soul Fire spells cast within 15 sec.
+
+Incinerate - Increases damage done by 18% and reduces cast time by 30%.
+
+Soul Fire - Increases damage done by 18% and increases critical strike chance by 15%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_DemonicFortitude</Icon>
+        <Name>Demonic Resilience</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the chance you'll be critically hit by melee and spells by 1% and reduces all damage your summoned demon takes by 5%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the chance you'll be critically hit by melee and spells by 2% and reduces all damage your summoned demon takes by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the chance you'll be critically hit by melee and spells by 3% and reduces all damage your summoned demon takes by 15%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Warlock_DemonicEmpowerment</Icon>
+        <Name>Demonic Empowerment</Name>
+        <Points>5</Points>
+        <Dependancy>Master Demonologist</Dependancy>
+        <Arrow>
+          <Name>ArrowShort</Name>
+          <X>88</X>
+          <Y>380</Y>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Grants the Warlock's summoned demon Empowerment.
+
+Imp - Increases the Imp's spell critical strike chance by 20% for 30 sec.
+
+Voidwalker - Increases the Voidwalker's health by 20%, and its threat generated from spells and attacks by 20% for 20 sec.
+
+Succubus - Instantly vanishes, causing the Succubus to go into an improved Invisibility state. The vanish effect removes all stuns, snares and movement impairing effects from the Succubus.
+
+Felhunter - Dispels all magical effects from the Felhunter.
+
+Felguard - Increases the Felguard's attack speed by 20% and breaks all stun, snare and movement impairing effects and makes your Felguard immune to them for 15 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_ImprovedVampiricEmbrace</Icon>
+        <Name>Demonic Knowledge</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your spell damage by an amount equal to 4% of the total of your active demon's Stamina plus Intellect.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your spell damage by an amount equal to 8% of the total of your active demon's Stamina plus Intellect.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your spell damage by an amount equal to 12% of the total of your active demon's Stamina plus Intellect.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_DemonicTactics</Icon>
+        <Name>Demonic Tactics</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases melee and spell critical strike chance for you and your summoned demon by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases melee and spell critical strike chance for you and your summoned demon by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases melee and spell critical strike chance for you and your summoned demon by 6%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases melee and spell critical strike chance for you and your summoned demon by 8%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases melee and spell critical strike chance for you and your summoned demon by 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_Fireball02</Icon>
+        <Name>Decimation</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When you Shadowbolt, Incinerate or Soul Fire a target that is at or below 35% health, the cast time of Soul Fire spell is reduced by 20% for 10 sec. Soul Fires cast under the effect of Decimation cost no shard.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>When you Shadowbolt, Incinerate or Soul Fire a target that is at or below 35% health, the cast time of your Soul Fire spell is reduced by 40% for 10 sec. Soul Fires cast under the effect of Decimation cost no shard.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Warlock_ImprovedDemonicTactics</Icon>
+        <Name>Improved Demonic Tactics</Name>
+        <Points>5</Points>
+        <Dependancy>Demonic Tactics</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>28</X>
+          <Y>440</Y>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your summoned demon's critical strike chance equal to 10% of your critical strike chance.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your summoned demon's critical strike chance equal to 20% of your critical strike chance.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your summoned demon's critical strike chance equal to 30% of your critical strike chance.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_SummonFelGuard</Icon>
+        <Name>Summon Felguard</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Summons a Felguard under the command of the Warlock.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_DemonicEmpathy</Icon>
+        <Name>Nemesis</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the cooldown of your Demonic Empowerment, Metamorphosis, and Fel Domination spells by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the cooldown of your Demonic Empowerment, Metamorphosis, and Fel Domination spells by 20%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the cooldown of your Demonic Empowerment, Metamorphosis, and Fel Domination spells by 30%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_DemonicPact</Icon>
+        <Name>Demonic Pact</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>10</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your spell damage by 2%, and your pet's criticals apply the Demonic Pact effect to your party or raid members. Demonic Pact increases spell power by 2% of your Spell Damage for 45 sec. This effect has a 20 sec cooldown. Does not work on Enslaved demons.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your spell damage by 4%, and your pet's criticals apply the Demonic Pact effect to your party or raid members. Demonic Pact increases spell power by 4% of your Spell Damage for 45 sec. This effect has a 20 sec cooldown. Does not work on Enslaved demons.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your spell damage by 6%, and your pet's criticals apply the Demonic Pact effect to your party or raid members. Demonic Pact increases spell power by 6% of your Spell Damage for 45 sec. This effect has a 20 sec cooldown. Does not work on Enslaved demons.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases your spell damage by 8%, and your pet's criticals apply the Demonic Pact effect to your party or raid members. Demonic Pact increases spell power by 8% of your Spell Damage for 45 sec. This effect has a 20 sec cooldown. Does not work on Enslaved demons.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases your spell damage by 10%, and your pet's criticals apply the Demonic Pact effect to your party or raid members. Demonic Pact increases spell power by 10% of your Spell Damage for 45 sec. This effect has a 20 sec cooldown. Does not work on Enslaved demons.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_DemonForm</Icon>
+        <Name>Metamorphosis</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>11</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>You transform into a Demon for 30 sec.  This form increases your armor by 600%, damage by 20%, reduces the chance you'll be critically hit by melee attacks by 6% and reduces the duration of stun and snare effects by 50%.  You gain some unique demon abilities in addition to your normal abilities. 3 minute cooldown.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+    </Talents>
+  </Specialization>
+  <Specialization>
+    <Name>Destruction</Name>
+    <Talents>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_ShadowBolt</Icon>
+        <Name>Improved Shadow Bolt</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your Shadow Bolt spell by 2%, and your Shadow Bolt has a 20% chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target by 5%. Effect lasts 30 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your Shadow Bolt spell by 4%, and your Shadow Bolt has a 40% chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target by 5%. Effect lasts 30 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage done by your Shadow Bolt spell by 6%, and your Shadow Bolt has a 60% chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target by 5%. Effect lasts 30 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the damage done by your Shadow Bolt spell by 8%, and your Shadow Bolt has a 80% chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target by 5%. Effect lasts 30 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases the damage done by your Shadow Bolt spell by 10%, and your Shadow Bolt has a 100% chance to cause your target to be vulnerable to spell damage, increasing spell critical strike chance against that target by 5%. Effect lasts 30 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_DeathPact</Icon>
+        <Name>Bane</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>1</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the casting time of your Shadow Bolt. Chaos Bolt and Immolate spells by 0.1 sec and your Soul Fire spell by 0.4 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the casting time of your Shadow Bolt. Chaos Bolt and Immolate spells by 0.2 sec and your Soul Fire spell by 0.8 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the casting time of your Shadow Bolt. Chaos Bolt and Immolate spells by 0.3 sec and your Soul Fire spell by 1.2 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Reduces the casting time of your Shadow Bolt. Chaos Bolt and Immolate spells by 0.4 sec and your Soul Fire spell by 1.6 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Reduces the casting time of your Shadow Bolt. Chaos Bolt and Immolate spells by 0.5 sec and your Soul Fire spell by 2 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_Fire</Icon>
+        <Name>Aftermath</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the periodic damage done by your Immolate by 3%, and your Conflagrate has a 50% chance to daze the target for 5 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the periodic damage done by your Immolate by 6%, and your Conflagrate has a 100% chance to daze the target for 5 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Mage_MoltenArmor</Icon>
+        <Name>Molten Skin</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces all damage taken by 2%.</Description>
+          </Rank>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces all damage taken by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces all damage taken by 6%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_WindsofWoe</Icon>
+        <Name>Cataclysm</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>2</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the Mana cost of your Destruction spells by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the Mana cost of your Destruction spells by 7%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Reduces the Mana cost of your Destruction spells by 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_FireBolt</Icon>
+        <Name>Demonic Power</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the cooldown of your Succubus' Lash of Pain spell by 3 sec. and reduces the casting time of your Imp's Firebolt spell by 0.25 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the cooldown of your Succubus' Lash of Pain spell by 6 sec. and reduces the casting time of your Imp's Firebolt spell by 0.5 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_ScourgeBuild</Icon>
+        <Name>Shadowburn</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Instantly blasts the target for 87 to 100 Shadow damage.  If the target dies within 5 sec of Shadowburn, and yields experience or honor, the caster gains a Soul Shard.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_ShadowWordPain</Icon>
+        <Name>Ruin</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>3</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical strike damage bonus of your Destruction spells and your Imp's Firebolt spell by 20%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the critical strike damage bonus of your Destruction spells and your Imp's Firebolt spell by 40%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the critical strike damage bonus of your Destruction spells and your Imp's Firebolt spell by 60%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the critical strike damage bonus of your Destruction spells and your Imp's Firebolt spell by 80%.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases the critical strike damage bonus of your Destruction spells and your Imp's Firebolt spell by 100%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_LavaSpawn</Icon>
+        <Name>Intensity</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Reduces the pushback suffered from damaging attacks while casting or channeling any Destruction spell by 35%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Reduces the pushback suffered from damaging attacks  while casting or channeling any Destruction spell by 70%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_CorpseExplode</Icon>
+        <Name>Destructive Reach</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the range of your Destruction spells by 10% and reduces threat caused by Destruction spells by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the range of your Destruction spells by 20% and reduces threat caused by Destruction spells by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_SoulBurn</Icon>
+        <Name>Improved Searing Pain</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>4</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical strike chance of your Searing Pain spell by 4%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the critical strike chance of your Searing Pain spell by 7%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the critical strike chance of your Searing Pain spell by 10%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_PlayingWithFire</Icon>
+        <Name>Backlash</Name>
+        <Points>2</Points>
+        <Dependancy>Intensity</Dependancy>
+        <Arrow>
+          <Name>ArrowShort</Name>
+          <X>28</X>
+          <Y>260</Y>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases your critical strike chance with spells by an additional 1% and gives you a 8% chance when hit by a physical attack to reduce the cast time of your next Shadow Bolt or Incinerate spell by 100%.  This effect lasts 8 sec and will not occur more than once every 8 seconds.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases your critical strike chance with spells by an additional 2% and gives you a 16% chance when hit by a physical attack to reduce the cast time of your next Shadow Bolt or Incinerate spell by 100%.  This effect lasts 8 sec and will not occur more than once every 8 seconds.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases your critical strike chance with spells by an additional 3% and gives you a 25% chance when hit by a physical attack to reduce the cast time of your next Shadow Bolt or Incinerate spell by 100%.  This effect lasts 8 sec and will not occur more than once every 8 seconds.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_Immolation</Icon>
+        <Name>Improved Immolate</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your Immolate spell by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your Immolate spell by 20%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage done by your Immolate spell by 30%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_FlameShock</Icon>
+        <Name>Devastation</Name>
+        <Points>5</Points>
+        <Dependancy>Ruin</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>148</X>
+          <Y>200</Y>
+        </Arrow>
+        <Tier>5</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the critical strike chance of your Destruction spells by 5%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_NetherProtection</Icon>
+        <Name>Nether Protection</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>After being hit with a spell, you have a 10% chance to gain Nether Protection, reducing all damage by that spell school by 30% for 8 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>After being hit with a spell, you have a 20% chance to gain Nether Protection, reducing all damage by that spell school by 30% for 8 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>After being hit with a spell, you have a 30% chance to gain Nether Protection, reducing all damage by that spell school by 30% for 8 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_SelfDestruct</Icon>
+        <Name>Emberstorm</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>6</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your Fire spells by 3% and reduces the cast time of your Incinerate spell by 0.05 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your Fire spells by 6% and reduces the cast time of your Incinerate spell by 0.10 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage done by your Fire spells by 9% and reduces the cast time of your Incinerate spell by 0.15 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the damage done by your Fire spells by 12% and reduces the cast time of your Incinerate spell by 0.20 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Increases the damage done by your Fire spells by 15% and reduces the cast time of your Incinerate spell by 0.25 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_Fireball</Icon>
+        <Name>Conflagrate</Name>
+        <Points>3</Points>
+        <Dependancy>Improved Immolate</Dependancy>
+        <Arrow>
+          <Name>ArrowMedium</Name>
+          <X>88</X>
+          <Y>320</Y>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Consumes an Immolate or Shadowflame effect on the enemy target to instantly deal damage equal to 60% of your Immolate or Shadowflame, and causes an additional 40% damage over 6 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_SoulLeech_3</Icon>
+        <Name>Soul Leech</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Gives your Shadow Bolt, Shadowburn, Chaos Bolt, Soul Fire, Incinerate, Searing Pain and Conflagrate spells a 10% chance to return health equal to 20% of the damage caused.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Gives your Shadow Bolt, Shadowburn, Chaos Bolt, Soul Fire, Incinerate, Searing Pain and Conflagrate spells a 20% chance to return health equal to 20% of the damage caused.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Gives your Shadow Bolt, Shadowburn, Chaos Bolt, Soul Fire, Incinerate, Searing Pain and Conflagrate spells a 30% chance to return health equal to 20% of the damage caused.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Fire_Volcano</Icon>
+        <Name>Pyroclasm</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>7</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When you critically strike with Searing Pain or Conflagrate, your Fire and Shadow spell damage is increased by 2% for 10 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>When you critically strike with Searing Pain or Conflagrate, your Fire and Shadow spell damage is increased by 4% for 10 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>When you critically strike with Searing Pain or Conflagrate, your Fire and Shadow spell damage is increased by 6% for 10 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_ShadowandFlame</Icon>
+        <Name>Shadow and Flame</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your Shadow Bolt, Shadowburn, Chaos Bolt and Incinerate spells gain an additional 4% of your bonus spell damage effects.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your Shadow Bolt, Shadowburn, Chaos Bolt and Incinerate spells gain an additional 8% of your bonus spell damage effects.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Your Shadow Bolt, Shadowburn, Chaos Bolt and Incinerate spells gain an additional 12% of your bonus spell damage effects.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Your Shadow Bolt, Shadowburn, Chaos Bolt and Incinerate spells gain an additional 16% of your bonus spell damage effects.</Description>
+          </Rank>
+          <Rank>
+            <Number>5</Number>
+            <Description>Your Shadow Bolt, Shadowburn, Chaos Bolt and Incinerate spells gain an additional 20% of your bonus spell damage effects.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Warlock_ImprovedSoulLeech</Icon>
+        <Name>Improved Soul Leech</Name>
+        <Points>3</Points>
+        <Dependancy>Soul Leech</Dependancy>
+        <Arrow>
+          <Name>ArrowShort</Name>
+          <X>148</X>
+          <Y>440</Y>
+        </Arrow>
+        <Tier>8</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Your Soul Leech effect also restores mana to you and your summoned demon equal to 1% of maximum mana, and has a 50% chance to grant up to 10 party or raid members mana regeneration equal to 1% of maximum mana per 5 sec. Lasts for 15 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Your Soul Leech effect also restores mana to you and your summoned demon equal to 2% of maximum mana, and has a 100% chance to grant up to 10 party or raid members mana regeneration equal to 1% of maximum mana per 5 sec. Lasts for 15 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Warlock_Backdraft</Icon>
+        <Name>Backdraft</Name>
+        <Points>1</Points>
+        <Dependancy>Conflagrate</Dependancy>
+        <Arrow>
+          <Name>ArrowLeftLong</Name>
+          <X>28</X>
+          <Y>410</Y>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>When you cast Conflagrate, the cast time and global cooldown of your next three Destruction spells is reduced by 10%. Lasts 15 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>When you cast Conflagrate, the cast time and global cooldown of your next three Destruction spells is reduced by 20%. Lasts 15 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>When you cast Conflagrate, the cast time and global cooldown of your next three Destruction spells is reduced by 30%. Lasts 15 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Spell_Shadow_Shadowfury</Icon>
+        <Name>Shadowfury</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Shadowfury is unleashed, causing 343 to 408 Shadow damage and stunning all enemies within 8 yds for 3 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Warlock_EmpoweredImp</Icon>
+        <Name>Empowered Imp</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>9</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your Imp by 10%, and all critical hits done by your Imp have a 33% chance to increase your spell critical hit chance for your next spell by 100%. This effect lasts 8 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your Imp by 20%, and all critical hits done by your Imp have a 66% chance to increase your spell critical hit chance for your next spell by 100%. This effect lasts 8 sec.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage done by your Imp by 30%, and all critical hits done by your Imp have a 100% chance to increase your spell critical hit chance for your next spell by 100%. This effect lasts 8 sec.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Warlock_FireandBrimstone</Icon>
+        <Name>Fire and Brimstone</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>10</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Increases the damage done by your Incinerate and Chaos Bolt spells to targets afflicted by your Immolate by 2%, and the critical strike chance of your Conflagrate spell is increased by 5%.</Description>
+          </Rank>
+          <Rank>
+            <Number>2</Number>
+            <Description>Increases the damage done by your Incinerate and Chaos Bolt spells to targets afflicted by your Immolate by 4%, and the critical strike chance of your Conflagrate spell is increased by 10%.</Description>
+          </Rank>
+          <Rank>
+            <Number>3</Number>
+            <Description>Increases the damage done by your Incinerate and Chaos Bolt spells to targets afflicted by your Immolate by 6%, and the critical strike chance of your Conflagrate spell is increased by 15%.</Description>
+          </Rank>
+          <Rank>
+            <Number>4</Number>
+            <Description>Increases the damage done by your Incinerate and Chaos Bolt spells to targets afflicted by your Immolate by 8%, and the critical strike chance of your Conflagrate spell is increased by 20%.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>Ability_Warlock_ChaosBolt</Icon>
+        <Name>Chaos Bolt</Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>11</Tier>
+        <Ranks>
+          <Rank>
+            <Number>1</Number>
+            <Description>Sends a bolt of chaotic fire at the enemy, dealing 837 to 1062 Fire damage. Chaos Bolt cannot be resisted, and pierces through all absorption effects.</Description>
+          </Rank>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+      <Talent>
+        <Icon>
+        </Icon>
+        <Name>
+        </Name>
+        <Points>
+        </Points>
+        <Dependancy>
+        </Dependancy>
+        <Arrow>
+        </Arrow>
+        <Tier>
+        </Tier>
+        <Ranks>
+        </Ranks>
+      </Talent>
+    </Talents>
+  </Specialization>
+</Specializations>
