@@ -15,8 +15,8 @@ namespace WoW_Talent_Calculator_WOTLK
             : base()
         {
             this.length = length;
-            this.OwnerDraw = true;
-            this.Draw += new DrawToolTipEventHandler(this.onDraw);
+            OwnerDraw = true;
+            Draw += new DrawToolTipEventHandler(onDraw);
         }
 
         //format text
@@ -64,7 +64,7 @@ namespace WoW_Talent_Calculator_WOTLK
         }
 
         //split text to lines that fit tooltip's length
-        public void Show(string text, IWin32Window window, int x, int y)
+        public new void Show(string text, IWin32Window window, int x, int y)
         {
             string[] lines = text.Split('\n');
             string[] words;

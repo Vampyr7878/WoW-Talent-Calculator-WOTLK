@@ -3,47 +3,32 @@
     //class to store inscribed glyphs
     class Glyph
     {
-        //glyphs name
-        private string name;
         //glyphs type
         private string type;
+
+        //glyphs name
+        public string Name { set; get; }
+
         //glyphs description
-        private string description;
+        public string Description { set; get; }
+
         //glyphs index
-        private int index;
+        public int Index { set; get; }
 
         //prepare empty glpyh slot
         public Glyph(string type)
         {
-            name = "Empty";
+            Name = "Empty";
             this.type = type;
-            description = "Click here to choose a Glyph to inscribe to your spellbook";
-            index = -1;
-        }
-
-        public string Name
-        {
-            set { name = value; }
-            get { return name; }
-        }
-
-        public string Description
-        {
-            set { description = value; }
-            get { return description; }
-        }
-
-        public int Index
-        {
-            set { index = value; }
-            get { return index; }
+            Description = "Click here to choose a Glyph to inscribe to your spellbook";
+            Index = -1;
         }
 
         //prepare tooltip text
         public string ToolTip()
         {
-            string temp = type + "\n" + description + "\n";
-            if (name != "Empty")
+            string temp = type + "\n" + Description + "\n";
+            if (Name != "Empty")
             {
                 temp += "Right Click to remove\n";
             }

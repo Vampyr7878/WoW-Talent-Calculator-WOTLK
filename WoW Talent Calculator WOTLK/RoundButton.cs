@@ -12,14 +12,17 @@ namespace WoW_Talent_Calculator_WOTLK
         private string texture;
         //helper to highlighting a button
         private bool hover;
-        //helper for glyphs
-        private bool active;
         //glyph's type color
         private Color color;
+
+        //helper for glyphs
+        public bool Active { set; get; }
+
         //inner cirle's rectangle
-        private Rectangle small;
+        public Rectangle Small { set; get; }
+
         //glyph's rune
-        private string rune;
+        public string Rune { set; get; }
 
         //allow custom drawing
         public RoundButton(string texture, Color color)
@@ -28,27 +31,9 @@ namespace WoW_Talent_Calculator_WOTLK
             hover = false;
             this.texture = texture;
             this.color = color;
-            small = new Rectangle(0, 0, Width, Height);
-            this.MouseEnter += new EventHandler(OnMouseEnter);
-            this.MouseLeave += new EventHandler(OnMouseLeave);
-        }
-
-        public bool Active
-        {
-            set { active = value; }
-            get { return active; }
-        }
-
-        public Rectangle Small
-        {
-            set { small = value; }
-            get { return small; }
-        }
-
-        public string Rune
-        {
-            set { rune = value; }
-            get { return rune; }
+            Small = new Rectangle(0, 0, Width, Height);
+            MouseEnter += new EventHandler(OnMouseEnter);
+            MouseLeave += new EventHandler(OnMouseLeave);
         }
 
         //draw custom circle shaped glyph button
@@ -56,7 +41,7 @@ namespace WoW_Talent_Calculator_WOTLK
         {
             GraphicsPath graphicsPath = new GraphicsPath();
             graphicsPath.AddEllipse(0, 0, Width, Height);
-            this.Region = new Region(graphicsPath);
+            Region = new Region(graphicsPath);
             Graphics graphic = e.Graphics;
             TextureBrush brush = new TextureBrush(new Bitmap(texture));
             graphic.FillEllipse(new SolidBrush(Color.FromArgb(255, 115, 90, 50)), 0, 0, Width, Height);
@@ -65,12 +50,12 @@ namespace WoW_Talent_Calculator_WOTLK
             {
                 graphic.FillEllipse(new SolidBrush(Color.FromArgb(16, Color.White)), 0, 0, Width, Height);
             }
-            if (active)
+            if (Active)
             {
-                brush = new TextureBrush(Multiply(new Bitmap(new Bitmap(rune), small.Width, small.Height)));
-                brush.TranslateTransform(small.X, small.Y);
-                graphic.FillEllipse(new SolidBrush(Color.FromArgb(64, color)), small);
-                graphic.FillEllipse(brush, small);
+                brush = new TextureBrush(Multiply(new Bitmap(new Bitmap(Rune), Small.Width, Small.Height)));
+                brush.TranslateTransform(Small.X, Small.Y);
+                graphic.FillEllipse(new SolidBrush(Color.FromArgb(64, color)), Small);
+                graphic.FillEllipse(brush, Small);
             }
         }
 

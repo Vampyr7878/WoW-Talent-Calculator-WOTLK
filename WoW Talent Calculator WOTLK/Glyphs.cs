@@ -12,14 +12,16 @@ namespace WoW_Talent_Calculator_WOTLK
         private XmlDocument glyphs;
         //glyphs list
         private XmlNode list;
-        //selected glyph
-        private XmlNode selected;
         //listbox of glyphs
         private GlyphListBox glyphListBox;
         //glyphs currently used
         private string[] used;
+        
+        //selected glyph
+        public XmlNode Selected { get; private set; }
+
         //index of slected glyph
-        private int index;
+        public int Index { get; private set; }
 
         //setup dialog
         public Glyphs(string name, string type, string[] used)
@@ -33,7 +35,7 @@ namespace WoW_Talent_Calculator_WOTLK
             glyphListBox.Size = new Size(569, 212);
             glyphListBox.TabIndex = 0;
             glyphListBox.HorizontalScrollbar = true;
-            this.Controls.Add(glyphListBox);
+            Controls.Add(glyphListBox);
             this.used = used;
             glyphs = new XmlDocument();
             glyphs.Load(@"Data\Glyphs.xml");
@@ -70,20 +72,10 @@ namespace WoW_Talent_Calculator_WOTLK
             }
         }
 
-        public XmlNode Selected
-        {
-            get { return selected; }
-        }
-
-        public int Index
-        {
-            get { return index; }
-        }
-
         //exit on cancel
         private void cancel_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Close();
         }
 
         //return selected choice
@@ -94,12 +86,12 @@ namespace WoW_Talent_Calculator_WOTLK
             {
                 if (glyph.ChildNodes[1].InnerText == glyphListBox.Items[glyphListBox.SelectedIndex].ToString())
                 {
-                    index = i;
-                    selected = glyph;
+                    Index = i;
+                    Selected = glyph;
                 }
                 i++;
             }
-            this.Close();
+            Close();
         }
     }
 }
