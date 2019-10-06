@@ -51,7 +51,7 @@
             this.save = new System.Windows.Forms.Button();
             this.openFileDialog = new System.Windows.Forms.OpenFileDialog();
             this.saveFileDialog = new System.Windows.Forms.SaveFileDialog();
-            this.button1 = new System.Windows.Forms.Button();
+            this.deathKnight = new System.Windows.Forms.Button();
             this.tabs.SuspendLayout();
             this.tab4.SuspendLayout();
             this.SuspendLayout();
@@ -308,18 +308,18 @@
             this.saveFileDialog.DefaultExt = "bld";
             this.saveFileDialog.Filter = "Talent build files (*.bld)|*.bld";
             // 
-            // button1
+            // deathKnight
             // 
-            this.button1.BackColor = System.Drawing.Color.Maroon;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(196)))), ((int)(((byte)(31)))), ((int)(((byte)(59)))));
-            this.button1.Location = new System.Drawing.Point(292, 273);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(100, 23);
-            this.button1.TabIndex = 15;
-            this.button1.Text = "Death Knight";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button_Click);
+            this.deathKnight.BackColor = System.Drawing.Color.Maroon;
+            this.deathKnight.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.deathKnight.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(196)))), ((int)(((byte)(31)))), ((int)(((byte)(59)))));
+            this.deathKnight.Location = new System.Drawing.Point(292, 273);
+            this.deathKnight.Name = "deathKnight";
+            this.deathKnight.Size = new System.Drawing.Size(100, 23);
+            this.deathKnight.TabIndex = 15;
+            this.deathKnight.Text = "Death Knight";
+            this.deathKnight.UseVisualStyleBackColor = false;
+            this.deathKnight.Click += new System.EventHandler(this.button_Click);
             // 
             // Talents
             // 
@@ -327,7 +327,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(404, 391);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.deathKnight);
             this.Controls.Add(this.save);
             this.Controls.Add(this.Open);
             this.Controls.Add(this.reset);
@@ -377,7 +377,7 @@
         private System.Windows.Forms.Button save;
         private System.Windows.Forms.OpenFileDialog openFileDialog;
         private System.Windows.Forms.SaveFileDialog saveFileDialog;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button deathKnight;
         private System.Windows.Forms.TabPage tab4;
         private System.Windows.Forms.Panel panel1;
 
